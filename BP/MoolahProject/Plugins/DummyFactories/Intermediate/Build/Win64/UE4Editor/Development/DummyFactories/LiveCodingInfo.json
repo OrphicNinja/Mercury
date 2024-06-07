@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DummyFactories.cpp.obj": [
+			"AkAudioEventDummyFactory.cpp.obj",
+			"Dum_AkAudioEventAssetTypeActions.cpp.obj",
+			"DummyFactories.cpp.obj"
+		],
+		"Module.DummyFactories.gen.cpp.obj": [
+			"AkAudioEventDummyFactory.gen.cpp.obj",
+			"DummyFactories.init.gen.cpp.obj"
+		]
+	}
+}

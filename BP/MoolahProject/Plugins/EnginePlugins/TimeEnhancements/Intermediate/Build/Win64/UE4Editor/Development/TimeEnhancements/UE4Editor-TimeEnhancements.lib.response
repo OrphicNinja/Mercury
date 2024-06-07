@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TimeEnhancements.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\PAYDAYMODS\Tools\MoolahUpdated\MoolahProject\Intermediate\Build\Win64\PAYDAY3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\MoolahProject\Plugins\EnginePlugins\TimeEnhancements\Intermediate\Build\Win64\UE4Editor\Development\TimeEnhancements\Module.TimeEnhancements.cpp.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\MoolahProject\Plugins\EnginePlugins\TimeEnhancements\Intermediate\Build\Win64\UE4Editor\Development\TimeEnhancements\Module.TimeEnhancements.gen.cpp.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\MoolahProject\Plugins\EnginePlugins\TimeEnhancements\Intermediate\Build\Win64\UE4Editor\Development\TimeEnhancements\Default.rc2.res"
+/OUT:"F:\PAYDAYMODS\Tools\MoolahUpdated\MoolahProject\Plugins\EnginePlugins\TimeEnhancements\Intermediate\Build\Win64\UE4Editor\Development\TimeEnhancements\UE4Editor-TimeEnhancements.lib"

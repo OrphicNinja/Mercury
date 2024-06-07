@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NISBlueprint.cpp.obj": [
+			"NISBlueprintModule.cpp.obj",
+			"NISLibrary.cpp.obj"
+		],
+		"Module.NISBlueprint.gen.cpp.obj": [
+			"NISBlueprint.init.gen.cpp.obj",
+			"NISLibrary.gen.cpp.obj",
+			"UNISMode.gen.cpp.obj",
+			"UNISSupport.gen.cpp.obj"
+		]
+	}
+}

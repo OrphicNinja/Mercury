@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AccelByteNetworkUtilities.cpp.obj": [
+			"AccelByteNetworkUtilitiesModule.cpp.obj",
+			"AccelByteSignalingMessage.cpp.obj",
+			"AccelByteSignalingTurnServer.cpp.obj",
+			"IpConnectionAccelByte.cpp.obj",
+			"IpNetDriverAccelByte.cpp.obj"
+		],
+		"Module.AccelByteNetworkUtilities.gen.cpp.obj": [
+			"AccelByteNetworkUtilities.init.gen.cpp.obj",
+			"AccelByteSignalingMessage.gen.cpp.obj",
+			"AccelByteSignalingTurnServer.gen.cpp.obj",
+			"IpConnectionAccelByte.gen.cpp.obj",
+			"IpNetDriverAccelByte.gen.cpp.obj"
+		]
+	}
+}

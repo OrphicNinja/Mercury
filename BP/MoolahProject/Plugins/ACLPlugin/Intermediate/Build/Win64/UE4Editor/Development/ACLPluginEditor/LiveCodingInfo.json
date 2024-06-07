@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ACLPluginEditor.cpp.obj": [
+			"ACLDatabaseBuildCommandlet.cpp.obj",
+			"ACLPluginEditorModule.cpp.obj",
+			"ACLStatsDumpCommandlet.cpp.obj",
+			"AnimationCompressionLibraryDatabaseFactory.cpp.obj",
+			"AssetTypeActions_AnimationCompressionLibraryDatabase.cpp.obj"
+		],
+		"Module.ACLPluginEditor.gen.cpp.obj": [
+			"ACLDatabaseBuildCommandlet.gen.cpp.obj",
+			"ACLPluginEditor.init.gen.cpp.obj",
+			"ACLStatsDumpCommandlet.gen.cpp.obj",
+			"AnimationCompressionLibraryDatabaseFactory.gen.cpp.obj"
+		]
+	}
+}

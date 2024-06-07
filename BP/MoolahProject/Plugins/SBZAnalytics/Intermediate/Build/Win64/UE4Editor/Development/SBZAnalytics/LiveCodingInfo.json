@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SBZAnalytics.cpp.obj": [
+			"SBZAccelByteAnalyticsProvider.cpp.obj",
+			"SBZAnalyticsModule.cpp.obj",
+			"SBZAnalyticsProvider.cpp.obj",
+			"SBZFileAnalyticsProvider.cpp.obj",
+			"SBZMockAnalyticsProvider.cpp.obj"
+		],
+		"Module.SBZAnalytics.gen.cpp.obj": [
+			"SBZAccelByteAnalyticsProvider.gen.cpp.obj",
+			"SBZAnalytics.init.gen.cpp.obj",
+			"SBZAnalyticsProvider.gen.cpp.obj",
+			"SBZFileAnalyticsProvider.gen.cpp.obj",
+			"SBZMockAnalyticsProvider.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SBZUtilityPlugin.cpp.obj": [
+			"SBZGameModeBase.cpp.obj",
+			"SBZGameSessionBase.cpp.obj",
+			"SBZUtilityLibrary.cpp.obj",
+			"SBZUtilityPluginModule.cpp.obj"
+		],
+		"Module.SBZUtilityPlugin.gen.cpp.obj": [
+			"OnPlayerRegisterDelegateDelegate.gen.cpp.obj",
+			"OnPlayerUnregisterDelegateDelegate.gen.cpp.obj",
+			"SBZGameModeBase.gen.cpp.obj",
+			"SBZGameSessionBase.gen.cpp.obj",
+			"SBZUtilityLibrary.gen.cpp.obj",
+			"SBZUtilityPlugin.init.gen.cpp.obj"
+		]
+	}
+}

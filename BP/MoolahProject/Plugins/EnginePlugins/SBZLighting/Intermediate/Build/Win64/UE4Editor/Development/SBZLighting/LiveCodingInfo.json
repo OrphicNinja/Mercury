@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SBZLighting.cpp.obj": [
+			"SBZIrradianceOccluder.cpp.obj",
+			"SBZIrradianceOccluderComponent.cpp.obj",
+			"SBZLightingModule.cpp.obj",
+			"SBZLightVisibilityArea.cpp.obj",
+			"SBZLightVisibilityAreaManager.cpp.obj",
+			"SBZLightVisibilityBoxShape.cpp.obj",
+			"SBZLightVisibilityShape.cpp.obj",
+			"SBZSparseIrradianceHintVolume.cpp.obj"
+		],
+		"Module.SBZLighting.gen.cpp.obj": [
+			"ESBZLightVisibilityAreaAction.gen.cpp.obj",
+			"ESBZSparseIrradianceHintVolumeAction.gen.cpp.obj",
+			"SBZIrradianceOccluder.gen.cpp.obj",
+			"SBZIrradianceOccluderComponent.gen.cpp.obj",
+			"SBZLighting.init.gen.cpp.obj",
+			"SBZLightVisibilityArea.gen.cpp.obj",
+			"SBZLightVisibilityAreaManager.gen.cpp.obj",
+			"SBZLightVisibilityBoxShape.gen.cpp.obj",
+			"SBZLightVisibilityShape.gen.cpp.obj",
+			"SBZSparseIrradianceHintVolume.gen.cpp.obj"
+		]
+	}
+}

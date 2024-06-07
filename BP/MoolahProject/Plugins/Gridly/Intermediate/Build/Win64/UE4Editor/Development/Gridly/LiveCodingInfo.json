@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Gridly.cpp.obj": [
+			"GridlyBPFunctionLibrary.cpp.obj",
+			"GridlyColumnInfo.cpp.obj",
+			"GridlyDataTable.cpp.obj",
+			"GridlyGameSettings.cpp.obj",
+			"GridlyModule.cpp.obj",
+			"GridlyResult.cpp.obj",
+			"GridlyTableCell.cpp.obj",
+			"GridlyTableRow.cpp.obj",
+			"GridlyTask_DownloadLocalizedTexts.cpp.obj",
+			"GridlyTask_ImportDataTableFromGridly.cpp.obj",
+			"SBZGridlyTask_DownloadGridlyNativeCulture.cpp.obj"
+		],
+		"Module.Gridly.gen.cpp.obj": [
+			"DownloadGridlyNativeCultureDelegateDelegate.gen.cpp.obj",
+			"DownloadLocalizedTextsDelegateDelegate.gen.cpp.obj",
+			"EGridlyColumnDataType.gen.cpp.obj",
+			"Gridly.init.gen.cpp.obj",
+			"GridlyBPFunctionLibrary.gen.cpp.obj",
+			"GridlyColumnInfo.gen.cpp.obj",
+			"GridlyDataTable.gen.cpp.obj",
+			"GridlyGameSettings.gen.cpp.obj",
+			"GridlyResult.gen.cpp.obj",
+			"GridlyTableCell.gen.cpp.obj",
+			"GridlyTableRow.gen.cpp.obj",
+			"GridlyTask_DownloadLocalizedTexts.gen.cpp.obj",
+			"GridlyTask_ImportDataTableFromGridly.gen.cpp.obj",
+			"ImportDataTableFromGridlyDelegateDelegate.gen.cpp.obj",
+			"SBZGridlyTask_DownloadGridlyNativeCulture.gen.cpp.obj"
+		]
+	}
+}

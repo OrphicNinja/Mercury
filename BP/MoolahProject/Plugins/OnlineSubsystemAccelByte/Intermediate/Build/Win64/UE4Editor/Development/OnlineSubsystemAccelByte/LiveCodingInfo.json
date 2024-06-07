@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OnlineSubsystemAccelByte.cpp.obj": [
+			"AccelByteUniqueIdComposite.cpp.obj",
+			"AuthHandlerComponentAccelByteFactory.cpp.obj",
+			"OnlineSubsystemAccelByteModule.cpp.obj"
+		],
+		"Module.OnlineSubsystemAccelByte.gen.cpp.obj": [
+			"AccelByteUniqueIdComposite.gen.cpp.obj",
+			"AuthHandlerComponentAccelByteFactory.gen.cpp.obj",
+			"EAccelByteChatRoomType.gen.cpp.obj",
+			"EAccelByteLoginType.gen.cpp.obj",
+			"EOnlineSessionP2PConnectedAction.gen.cpp.obj",
+			"ETypeOfOnlineAsyncTask.gen.cpp.obj",
+			"OnlineSubsystemAccelByte.init.gen.cpp.obj"
+		]
+	}
+}

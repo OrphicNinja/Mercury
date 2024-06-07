@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TimeEnhancements.cpp.obj": [
+			"CurveFloatDelegateTimer.cpp.obj",
+			"DelegateTimer.cpp.obj",
+			"FiniteStateMachineComponent.cpp.obj",
+			"TimeEnhancements.cpp.obj",
+			"TimeEnhancementsBPLibrary.cpp.obj"
+		],
+		"Module.TimeEnhancements.gen.cpp.obj": [
+			"CurveFloatDelegateTimer.gen.cpp.obj",
+			"DelegateTimer.gen.cpp.obj",
+			"FiniteStateMachineComponent.gen.cpp.obj",
+			"TimeEnhancements.init.gen.cpp.obj",
+			"TimeEnhancementsBPLibrary.gen.cpp.obj"
+		]
+	}
+}

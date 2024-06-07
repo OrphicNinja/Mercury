@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GamepadUMGPlugin.cpp.obj": [
+			"GamepadCursorSettings.cpp.obj",
+			"GamepadUMGPluginModule.cpp.obj",
+			"VirtualCursorFunctionLibrary.cpp.obj"
+		],
+		"Module.GamepadUMGPlugin.gen.cpp.obj": [
+			"GamepadCursorSettings.gen.cpp.obj",
+			"GamepadUMGPlugin.init.gen.cpp.obj",
+			"VirtualCursorFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

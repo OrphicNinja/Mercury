@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UniversalVoiceChatPro.cpp.obj": [
+			"AudioCaptureAndroid.cpp.obj",
+			"MicrophoneSpeakComponent.cpp.obj",
+			"PlayerVoiceChatActor.cpp.obj",
+			"UniversalVoiceChat.cpp.obj",
+			"UniversalVoiceChatProModule.cpp.obj"
+		],
+		"Module.UniversalVoiceChatPro.gen.cpp.obj": [
+			"AudioCaptureAndroid.gen.cpp.obj",
+			"MicrophoneSpeakComponent.gen.cpp.obj",
+			"PlayerVoiceChatActor.gen.cpp.obj",
+			"UniversalVoiceChat.gen.cpp.obj",
+			"UniversalVoiceChatPro.init.gen.cpp.obj"
+		]
+	}
+}

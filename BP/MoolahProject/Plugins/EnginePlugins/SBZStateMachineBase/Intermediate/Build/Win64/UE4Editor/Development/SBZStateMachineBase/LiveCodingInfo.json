@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SBZStateMachineBase.cpp.obj": [
+			"SBZStateMachine.cpp.obj",
+			"SBZStateMachineBaseModule.cpp.obj",
+			"SBZStateMachineData.cpp.obj",
+			"SBZStateMachineState.cpp.obj"
+		],
+		"Module.SBZStateMachineBase.gen.cpp.obj": [
+			"OnStateEnteredDelegateDelegate.gen.cpp.obj",
+			"OnStateLeftDelegateDelegate.gen.cpp.obj",
+			"SBZStateMachine.gen.cpp.obj",
+			"SBZStateMachineBase.init.gen.cpp.obj",
+			"SBZStateMachineData.gen.cpp.obj",
+			"SBZStateMachineState.gen.cpp.obj"
+		]
+	}
+}

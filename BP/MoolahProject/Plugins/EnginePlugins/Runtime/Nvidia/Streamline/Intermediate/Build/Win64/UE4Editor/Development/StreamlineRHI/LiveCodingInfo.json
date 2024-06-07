@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StreamlineRHI.cpp.obj": [
+			"StreamlineOverrideSettings.cpp.obj",
+			"StreamlineRHIModule.cpp.obj",
+			"StreamlineSettings.cpp.obj"
+		],
+		"Module.StreamlineRHI.gen.cpp.obj": [
+			"EStreamlineSettingOverride.gen.cpp.obj",
+			"StreamlineOverrideSettings.gen.cpp.obj",
+			"StreamlineRHI.init.gen.cpp.obj",
+			"StreamlineSettings.gen.cpp.obj"
+		]
+	}
+}

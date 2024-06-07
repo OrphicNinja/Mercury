@@ -1,0 +1,28 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ACLPlugin.cpp.obj": [
+			"ACLImpl.cpp.obj",
+			"ACLPluginModule.cpp.obj",
+			"AnimationCompressionLibraryDatabase.cpp.obj",
+			"AnimBoneCompressionCodec_ACL.cpp.obj",
+			"AnimBoneCompressionCodec_ACLBase.cpp.obj",
+			"AnimBoneCompressionCodec_ACLCustom.cpp.obj",
+			"AnimBoneCompressionCodec_ACLDatabase.cpp.obj",
+			"AnimBoneCompressionCodec_ACLSafe.cpp.obj",
+			"AnimCurveCompressionCodec_ACL.cpp.obj",
+			"EditorDatabaseMonitor.cpp.obj"
+		],
+		"Module.ACLPlugin.gen.cpp.obj": [
+			"ACLImpl.gen.cpp.obj",
+			"ACLPlugin.init.gen.cpp.obj",
+			"AnimationCompressionLibraryDatabase.gen.cpp.obj",
+			"AnimBoneCompressionCodec_ACL.gen.cpp.obj",
+			"AnimBoneCompressionCodec_ACLBase.gen.cpp.obj",
+			"AnimBoneCompressionCodec_ACLCustom.gen.cpp.obj",
+			"AnimBoneCompressionCodec_ACLDatabase.gen.cpp.obj",
+			"AnimBoneCompressionCodec_ACLSafe.gen.cpp.obj",
+			"AnimCurveCompressionCodec_ACL.gen.cpp.obj"
+		]
+	}
+}

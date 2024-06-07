@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StreamlineBlueprint.cpp.obj": [
+			"StreamlineBlueprintModule.cpp.obj",
+			"StreamlineLibraryDLSSG.cpp.obj",
+			"StreamlineLibraryReflex.cpp.obj"
+		],
+		"Module.StreamlineBlueprint.gen.cpp.obj": [
+			"StreamlineBlueprint.init.gen.cpp.obj",
+			"StreamlineLibraryDLSSG.gen.cpp.obj",
+			"StreamlineLibraryReflex.gen.cpp.obj",
+			"UStreamlineDLSSGMode.gen.cpp.obj",
+			"UStreamlineDLSSGSupport.gen.cpp.obj",
+			"UStreamlineReflexMode.gen.cpp.obj",
+			"UStreamlineReflexSupport.gen.cpp.obj"
+		]
+	}
+}

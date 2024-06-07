@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TimeEnhancementsEditor.cpp.obj": [
+			"BPNode_FSMState.cpp.obj",
+			"TimeEnhancementsEditor.cpp.obj"
+		],
+		"Module.TimeEnhancementsEditor.gen.cpp.obj": [
+			"BPNode_FSMState.gen.cpp.obj",
+			"TimeEnhancementsEditor.init.gen.cpp.obj"
+		]
+	}
+}
