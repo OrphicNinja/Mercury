@@ -6,15 +6,33 @@ The goal of this is to create a centralized mod / collection of mods that work t
 
 This could eventually be included in zModLoader as MMM will utilise the same modmeta for the mod settings.
 
-Currently Completed:
 
-![image](https://github.com/OrphicNinja/PD3-ModManager/assets/61272669/39631749-0ce7-445c-a1cf-f5b0786c94b8)
-![image](https://github.com/OrphicNinja/PD3-ModManager/assets/61272669/4b3ff7cd-f94c-498b-b22e-c49dee6c1ed9)
+### Todo
+
+- [ ] Mod settings page
+ - [ ] Create a navbar for each detected mod
+ - [ ] For each variable in the mod meta data asset, create a new settings adjuster widget 
+
+- [ ] Mod loading order page
+ - [ ] Setup a base widget for each detectrd pak
+ - [ ] Setup a list widget that displays each pack in order
+- [ ] Allow the player to modify the order of this list by using Up and Down buttons or drag and drop
+- [ ] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
 
 
-TODO:
 
-![image](https://github.com/OrphicNinja/PD3-ModManager/assets/61272669/194e2313-8a23-4481-95aa-34e97e95d52d)
+### In Progress 
+
+- [ ] Create a base widget for mods in the download manager.
+ - This will have an icon, the mod name, mod      version and a button to update the mod. There will also be a progress bar to show download progression when updating.  
+
+### Done ✓
+
+- [x] Checking for updates
+- [x] Update notifier widget on main menu to display how many mods are outdated
+- [x] Mods button on navbar
+- [x] Mod stack widget that holds the buttons for download manager, mod load order and mod settings; along with a widget switcher to display the different pages
+- [x] Hot swapping Paks (experimental)
 
 Notes:
 Hot Loading sort of works, kinda maybe. Its experimental.
