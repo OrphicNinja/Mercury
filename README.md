@@ -14,7 +14,7 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
    - [ ] For each variable in the mod meta data asset, create a new settings adjuster widget 
 
 - [ ] Mod loading order page
-   - [ ] Setup a base widget for each detectrd pak
+   - [ ] Setup a base widget for each detected pak
    - [ ] Setup a list widget that displays each pack in order
    - [ ] Allow the player to modify the order of this list by using Up and Down buttons or drag and drop
    - [ ] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
@@ -38,3 +38,22 @@ Notes:
 Hot Loading sort of works, kinda maybe. Its experimental.
 
 
+### HOW TO USE
+
+1. Download [UE4SS 3.01](https://modworkshop.net/mod/47771) for PD3
+2. Download [Logic Mod Loader](https://modworkshop.net/mod/44049). Currently a lot of mods cause crashes with the
+latest version. Try using this [old version](https://drive.google.com/file/d/1WOpwp0hHY6JGL1G8cqVDqHbB-SEbH0zY/view) instead
+3. Clone the repo and navigate to /Build
+4. Extract the v0.0.1 zip into your game root directory. 
+The location of this folder will vary depending on your installation preferences & storefront.
+![STEAM.png](Imgs%2FSTEAM.png)
+![EGS.png](Imgs%2FEGS.png)
+5. Navigate to the UE4SS Mods folder (typically at ```{GamePath}\PAYDAY3\PAYDAY3\Binaries\Win64``` or ```{GamePath}\PAYDAY3\PAYDAY3\Binaries\WinGDK```)
+6. Edit the mods.txt and add ```ModManager : 1``` 
+7. Navigate to ```{GamePath}\PAYDAY3\PAYDAY3\``` and create a "Mods" folder. This folder is where the mod manager will mount and unmount paks from
+. The directory should look something like this. (You may not have "Screenshots")
+![ModFolder.png](Imgs%2FModFolder.png)
+8. Add your pak mods to this Mods folder (Except for ModManager.pak and zModLoader.pak)
+9. To hotswap a mod, rename the updated pak with '.staged' at the end and add it to the /Mods folder.
+The mod manager will detect this change and replace the old pak with the new one. This is very experimental. 
+The affected assets need to be reloaded e.g: if you are currently in a heist, quit to the main menu then reload the heist.
