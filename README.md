@@ -10,21 +10,21 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
 ### Todo
 
 - [ ] Mod settings page
- - [ ] Create a navbar for each detected mod
- - [ ] For each variable in the mod meta data asset, create a new settings adjuster widget 
+   - [ ] Create a navbar for each detected mod
+   - [ ] For each variable in the mod meta data asset, create a new settings adjuster widget 
 
 - [ ] Mod loading order page
- - [ ] Setup a base widget for each detectrd pak
- - [ ] Setup a list widget that displays each pack in order
-- [ ] Allow the player to modify the order of this list by using Up and Down buttons or drag and drop
-- [ ] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
+   - [ ] Setup a base widget for each detectrd pak
+   - [ ] Setup a list widget that displays each pack in order
+   - [ ] Allow the player to modify the order of this list by using Up and Down buttons or drag and drop
+   - [ ] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
 
 
 
 ### In Progress 
 
 - [ ] Create a base widget for mods in the download manager.
- - This will have an icon, the mod name, mod      version and a button to update the mod. There will also be a progress bar to show download progression when updating.  
+   - This will have an icon, the mod name, mod      version and a button to update the mod. There will also be a progress bar to show download progression when updating.  
 
 ### Done ✓
 
