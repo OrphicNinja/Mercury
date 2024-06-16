@@ -20,11 +20,11 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
    - [ ] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
 
 
-
 ### In Progress 
 
 - [ ] Create a base widget for mods in the download manager.
-   - This will have an icon, the mod name, mod      version and a button to update the mod. There will also be a progress bar to show download progression when updating.  
+   - This will have an icon, the mod name, mod      version and a button to update the mod. There will also be a progress bar to show download progression when updating.
+- 
 
 ### Done ✓
 
@@ -33,6 +33,7 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
 - [x] Mods button on navbar
 - [x] Mod stack widget that holds the buttons for download manager, mod load order and mod settings; along with a widget switcher to display the different pages
 - [x] Hot swapping Paks (experimental)
+- [x] Restarting Mods from the main menu (quicker than loading into a heist and returning to menu) 
 
 Notes:
 Hot Loading sort of works, kinda maybe. Its experimental.
