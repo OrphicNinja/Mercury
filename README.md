@@ -8,7 +8,17 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
 
 
 ### Todo
-
+- [ ] Download Manager Page
+   - [ ] Create a base widget for mods in the download manager.
+      - This will have an icon, the mod name, mod version and a button to update the mod. There will also be a progress bar to show download progression when updating.
+   - [ ] Update signle mod button functionality in c++
+      - [x] Check latest mod version on MWS or NexusMods
+      - [x] Compared the current version with latest version
+      - [x] Curl new version into UE4SS mods folder
+      - [ ] Copy paks to /Mods with ".staged" as suffix to file name ( This will allow the hotswapping to occur )
+   - [ ] Update all mods button functionality in c++
+      - [ ] Get all outdated mods and run update single mod function on them 
+     
 - [ ] Mod settings page
    - [ ] Create a navbar for each detected mod
    - [ ] For each variable in the mod meta data asset, create a new settings adjuster widget 
@@ -22,9 +32,11 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
 
 ### In Progress 
 
-- [ ] Create a base widget for mods in the download manager.
-   - This will have an icon, the mod name, mod      version and a button to update the mod. There will also be a progress bar to show download progression when updating.
-- 
+- [ ] Mod loading order page
+   - [x] On widget switched to load order page, refresh load order list and add all paks to the container
+   - [ ] On applied, saved this order of paks to a txt. The mod manager should then mount paks in this order on startup. 
+      - [ ] On applied, Unmount all paks and remount them in the new order
+      - [x] Restart main menu to restart all paks 
 
 ### Done ✓
 
