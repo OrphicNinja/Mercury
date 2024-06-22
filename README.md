@@ -34,7 +34,7 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
 
 - [ ] Mod loading order page
    - [x] On widget switched to load order page, refresh load order list and add all paks to the container
-   - [ ] On applied, saved this order of paks to a txt. The mod manager should then mount paks in this order on startup. 
+   - [x] On applied, saved this order of paks to a txt. The mod manager should then mount paks in this order on startup. 
       - [ ] On applied, Unmount all paks and remount them in the new order
       - [x] Restart main menu to restart all paks 
 
