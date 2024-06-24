@@ -8,35 +8,23 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
 
 
 ### Todo
-- [ ] Download Manager Page
-   - [ ] Create a base widget for mods in the download manager.
-      - This will have an icon, the mod name, mod version and a button to update the mod. There will also be a progress bar to show download progression when updating.
-   - [ ] Update signle mod button functionality in c++
-      - [x] Check latest mod version on MWS or NexusMods
-      - [x] Compared the current version with latest version
-      - [x] Curl new version into UE4SS mods folder
-      - [ ] Copy paks to /Mods with ".staged" as suffix to file name ( This will allow the hotswapping to occur )
-   - [ ] Update all mods button functionality in c++
-      - [ ] Get all outdated mods and run update single mod function on them 
-     
 - [ ] Mod settings page
    - [ ] Create a navbar for each detected mod
    - [ ] For each variable in the mod meta data asset, create a new settings adjuster widget 
 
-- [ ] Mod loading order page
-   - [x] Setup a base widget for each detected pak
-   - [x] Setup a list widget that displays each pack in order
-   - [x] Allow the player to modify the order of this list by using Up and Down buttons or drag and drop
-   - [ ] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
-
 
 ### In Progress 
 
-- [ ] Mod loading order page
-   - [x] On widget switched to load order page, refresh load order list and add all paks to the container
-   - [x] On applied, saved this order of paks to a txt. The mod manager should then mount paks in this order on startup. 
-      - [ ] On applied, Unmount all paks and remount them in the new order
-      - [x] Restart main menu to restart all paks 
+- [ ] Download Manager Page
+  - [ ] Create a base widget for mods in the download manager.
+  - [ ] Update single mod button functionality in c++
+    - [x] Check latest mod version on MWS or NexusMods
+    - [x] Compared the current version with latest version
+    - [x] Curl new version into UE4SS mods folder
+    - [ ] Copy paks to /Mods with ".staged" as suffix to file name ( This will allow the hotswapping to occur )
+    - [ ] Update all mods button functionality in c++
+        - [ ] Get all outdated mods and run update single mod function on them
+
 
 ### Done ✓
 
@@ -46,6 +34,7 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
 - [x] Mod stack widget that holds the buttons for download manager, mod load order and mod settings; along with a widget switcher to display the different pages
 - [x] Hot swapping Paks (experimental)
 - [x] Restarting Mods from the main menu (quicker than loading into a heist and returning to menu) 
+- [x] Mod loading order page and functionality
 
 Notes:
 Hot Loading sort of works, kinda maybe. Its experimental.
@@ -57,16 +46,14 @@ Hot Loading sort of works, kinda maybe. Its experimental.
 2. Download [Logic Mod Loader](https://modworkshop.net/mod/44049). Currently a lot of mods cause crashes with the
 latest version. Try using this [old version](https://drive.google.com/file/d/1WOpwp0hHY6JGL1G8cqVDqHbB-SEbH0zY/view) instead
 3. Clone the repo and navigate to /Build
-4. Extract the v0.0.1 zip into your game root directory. 
+4. Extract the latest zip from /Build into your game root directory. 
 The location of this folder will vary depending on your installation preferences & storefront.
 ![STEAM.png](Imgs%2FSTEAM.png)
 ![EGS.png](Imgs%2FEGS.png)
 5. Navigate to the UE4SS Mods folder (typically at ```{GamePath}\PAYDAY3\PAYDAY3\Binaries\Win64``` or ```{GamePath}\PAYDAY3\PAYDAY3\Binaries\WinGDK```)
-6. Edit the mods.txt and add ```ModManager : 1``` 
-7. Navigate to ```{GamePath}\PAYDAY3\PAYDAY3\``` and create a "Mods" folder. This folder is where the mod manager will mount and unmount paks from
-. The directory should look something like this. (You may not have "Screenshots")
-![ModFolder.png](Imgs%2FModFolder.png)
-8. Add your pak mods to this Mods folder (Except for ModManager.pak and zModLoader.pak)
-9. To hotswap a mod, rename the updated pak with '.staged' at the end and add it to the /Mods folder.
+6. Edit the mods.txt and add ```MercuryModManager : 1``` 
+7. Navigate to {GamePath}\PAYDAY3\PAYDAY3\ and create a "Mercury" folder. Inside this folder, create a "Mods" folder. 
+This folder is where the mod manager will mount and unmount paks from.
+8. To hotswap a mod, rename the updated pak with '.staged' at the end and add it to the /Mods folder.
 The mod manager will detect this change and replace the old pak with the new one. This is very experimental. 
 The affected assets need to be reloaded e.g: if you are currently in a heist, quit to the main menu then reload the heist.
