@@ -7,6 +7,7 @@
 #include <utilities/debug.hpp>
 
 namespace fs = std::filesystem;
+namespace debug = MMM::utilities::debug;
 
 namespace MMM
 {
@@ -41,6 +42,7 @@ namespace MMM
             {
                 fs::path working_dir = UE4SSProgram::get_program().get_working_directory();
                 fs::path dir = working_dir.parent_path().parent_path() / "Mercury" / "Mods";
+
                 return dir;
             }
 

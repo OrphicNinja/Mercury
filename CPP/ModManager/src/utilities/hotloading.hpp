@@ -45,12 +45,12 @@ namespace MMM
 
             using namespace RC::Unreal;
 
-            std::filesystem::path g_pak_dir;
+            fs::path g_pak_dir;
             bool IsThreadPaused = false;
 
             void StartDirWatcher();
             DWORD WINAPI ThreadProc(LPVOID);
-            void CommitStagedPaks(std::filesystem::path);
+            void CommitStagedPaks(fs::path);
 
             struct FPakFile
             {
@@ -230,13 +230,34 @@ namespace MMM
                     return 0;
             }
 
-            bool IsMounted(std::filesystem::path my_pak)
+            void MountPak(fs::path path, int priority)
+            {
+                FString ManualPakPath(path.wstring().c_str());
+                if (g_mount(ManualPakPath, 1000+priority)) 
+                {
+                    std::string prioritySTR = std::to_string(priority);
+                    std::string msg = "Mounted pak: ";
+                    debug::Debug3(msg, path.string(), prioritySTR);
+                }
+                else
+                {
+                    debug::Error(L"  Failed to mount pak. Try again later.");
+
+                    if(!fs::exists(path))
+                    {
+                        debug::Error2(STR(" Pak not found, removing from list... "), path.string());
+                        files::EraseFileLine(files::GetModLoadOrder(), path.string());
+                    }
+                }
+            }
+
+            bool IsMounted(fs::path my_pak)
             {
                 for (int i = 0; i < g_mount_delegate_ptr->pak->PakFiles.Num(); i++)
                 {
                     FPakListEntry entry = g_mount_delegate_ptr->pak->PakFiles[i];
-                    std::filesystem::path mounted_pak(entry.PakFile->PakFilename.GetCharArray());
-                    if (std::filesystem::equivalent(my_pak, mounted_pak)) { return true; }
+                    fs::path mounted_pak(entry.PakFile->PakFilename.GetCharArray());
+                    if (fs::equivalent(my_pak, mounted_pak)) { return true; }
                 }
                 return false;
             }
@@ -262,7 +283,7 @@ namespace MMM
                 std::ifstream LoadOrderFile(files::GetModLoadOrder());
                 for( std::string line; std::getline( LoadOrderFile, line ); )
                 {
-                    std::filesystem::path src =  files::GetModFolder() / line;
+                    fs::path src =  files::GetModFolder() / line;
                     FString ManualPakPath(src.wstring().c_str());
                     if (g_unmount(ManualPakPath)) 
                     {
@@ -293,30 +314,26 @@ namespace MMM
                     return;
                 }
 
+                int index = 1000;
+
                 //Mount paks in order from ModLoadOrder.txt
                 std::ifstream LoadOrderFile(files::GetModLoadOrder());
+                std::vector<std::string> lines_in_reverse;
                 for( std::string line; std::getline( LoadOrderFile, line ); )
                 {
-                    std::filesystem::path src =  files::GetModFolder() / line;
-                    FString ManualPakPath(src.wstring().c_str());
-                    if (g_mount(ManualPakPath, 100)) 
-                    {
-                        debug::Debug2(STR(" Mounted pak: "), src.string());
-                    }
-                    else
-                    {
-                        debug::Error(L"  Failed to mount pak. Try again later.");
+                    // Stores the lines in reverse order
+                    lines_in_reverse.insert(lines_in_reverse.begin(), line);
+                }
 
-                        if(!fs::exists(src))
-                        {
-                            debug::Error2(STR(" Pak not found, removing from list... "), line);
-                            files::EraseFileLine(files::GetModLoadOrder(), line);
-                        }
-                    }
+                for(std::string line : lines_in_reverse)
+                {
+                    fs::path src =  files::GetModFolder() / line;
+                    MountPak(src, index);
+                    index++;
                 }
             }
 
-            void CommitStagedPaks(std::filesystem::path pak_dir)
+            void CommitStagedPaks(fs::path pak_dir)
             {
                 if (!g_mount || !g_unmount)
                 {
@@ -325,35 +342,31 @@ namespace MMM
                 }
                 std::error_code err;
                 int num_tries = 0;
-                std::vector<std::tuple<std::filesystem::path, CommitAction>> pak_paths;
+                std::vector<std::tuple<fs::path, CommitAction>> pak_paths;
+
+                int index = 1000;
 
                 //Mount paks in order from ModLoadOrder.txt
                 std::ifstream LoadOrderFile(files::GetModLoadOrder());
+                std::vector<std::string> lines_in_reverse;
                 for( std::string line; std::getline( LoadOrderFile, line ); )
                 {
-                    std::filesystem::path src =  files::GetModFolder() / line;
-                    FString ManualPakPath(src.wstring().c_str());
-                    if (g_mount(ManualPakPath, 100)) 
-                    {
-                        debug::Debug2(STR(" Mounted pak: "), src.string());
-                    }
-                    else
-                    {
-                        debug::Error(L"  Failed to mount pak. Try again later.");
+                    // Stores the lines in reverse order
+                    lines_in_reverse.insert(lines_in_reverse.begin(), line);
+                }
 
-                        if(!fs::exists(src))
-                        {
-                            debug::Error2(STR(" Pak not found, removing from list... "), line);
-                            files::EraseFileLine(files::GetModLoadOrder(), line);
-                        }
-                    }
+                for(std::string line : lines_in_reverse)
+                {
+                    fs::path src =  files::GetModFolder() / line;
+                    MountPak(src, index);
+                    index++;
                 }
 
                 // If pak is not already in ModLoadOrder.txt -> Mount pak and add it to end of ModLoadOrder.txt
-                for (const auto& dir_entry : std::filesystem::recursive_directory_iterator(pak_dir))
+                for (const auto& dir_entry : fs::recursive_directory_iterator(pak_dir))
                 {
                     if (!dir_entry.is_regular_file()) { continue; }
-                    std::filesystem::path src = dir_entry.path();
+                    fs::path src = dir_entry.path();
                     if (dir_entry.path().extension() == ".pak")
                     {
                         if (!IsMounted(src))
@@ -373,8 +386,6 @@ namespace MMM
                             {
                                 debug::Debug2(STR("Adding pak to list: "), dir_entry.path().filename().string());
                                 file << dir_entry.path().filename().string() << std::endl;
-
-
                             }
                         }
                         else
@@ -384,10 +395,10 @@ namespace MMM
                     }
                     else if (dir_entry.path().extension() == ".staged")
                     {
-                        std::filesystem::path dst(src);
+                        fs::path dst(src);
                         dst.replace_filename(src.stem());
-                        std::filesystem::directory_entry dst_entry(dst);
-                        if (std::filesystem::exists(dst))
+                        fs::directory_entry dst_entry(dst);
+                        if (fs::exists(dst))
                         {
                             debug::Debug2(L"Found staged changes for:", dst.filename().wstring());
                             debug::Debug(L"Will hot swap.");
@@ -403,9 +414,9 @@ namespace MMM
                 }
                 for (const auto& t : pak_paths)
                 {
-                    const auto& src = std::get<std::filesystem::path>(t);
+                    const auto& src = std::get<fs::path>(t);
                     const auto& action = std::get<CommitAction>(t);
-                    std::filesystem::path dst(src);
+                    fs::path dst(src);
                     dst.replace_filename(src.stem());
                     FString fstr_dst(dst.wstring().c_str());
                     FString PakPath(src.wstring().c_str());
@@ -429,7 +440,7 @@ namespace MMM
                         debug::Debug(L"  Deleting pak...");
                         while (num_retries < max_retries)
                         {
-                            std::filesystem::remove(dst, err);
+                            fs::remove(dst, err);
                             if (!err) {
                             break;
                             }
@@ -449,17 +460,17 @@ namespace MMM
                     case CommitAction::RenameAndMount:
                         err.clear();
                         debug::Debug(L"  Renaming staged pak...");
-                        std::filesystem::rename(src, dst, err);
+                        fs::rename(src, dst, err);
                         while (err)
                         {
                             debug::Warn(L"  Rename failed. Sleeping for 200ms and trying again...");
                             std::this_thread::sleep_for(std::chrono::milliseconds(200));
-                            std::filesystem::rename(src, dst, err);
+                            fs::rename(src, dst, err);
                         }
 
                         // fallthrough
                     case CommitAction::MountOnly:
-                        if (g_mount(PakPath, 100)) 
+                        if (g_mount(PakPath, 1000)) 
                         {
                             debug::Debug(L"  Mounted pak.");
                         }
@@ -517,15 +528,15 @@ namespace MMM
                 );
                 if (gh_thread_exit_event == NULL) { debug::Error(L"Failed to create ThreadExitEvent"); }
 
-                std::filesystem::path working_dir = UE4SSProgram::get_program().get_working_directory();
+                fs::path working_dir = UE4SSProgram::get_program().get_working_directory();
                 g_pak_dir = working_dir.parent_path().parent_path() / "Mercury" / "Mods";
-                if (!std::filesystem::exists(g_pak_dir))
+                if (!fs::exists(g_pak_dir))
                 {
                     debug::Error2(L"Mods directory does not exist:", g_pak_dir.wstring());
 
                     debug::Error(L"Creating Mods directory...");
-
-                    std::filesystem::create_directory(g_pak_dir);
+                    
+                    fs::create_directories(g_pak_dir);
                     return;
                 }
             }

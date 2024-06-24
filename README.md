@@ -51,8 +51,14 @@ The location of this folder will vary depending on your installation preferences
 ![EGS.png](Imgs%2FEGS.png)
 5. Navigate to the UE4SS Mods folder (typically at ```{GamePath}\PAYDAY3\PAYDAY3\Binaries\Win64``` or ```{GamePath}\PAYDAY3\PAYDAY3\Binaries\WinGDK```)
 6. Edit the mods.txt and add ```MercuryModManager : 1``` 
-7. Navigate to {GamePath}\PAYDAY3\PAYDAY3\ and create a "Mercury" folder. Inside this folder, create a "Mods" folder. 
+7. Open the game once and quit. The mod manager should have created a "/Mercury/Mods" directory in the games root folder.
 This folder is where the mod manager will mount and unmount paks from.
-8. To hotswap a mod, rename the updated pak with '.staged' at the end and add it to the /Mods folder.
+8. Put all your mods except for (MercuryModManager_P.pak and zModLoader.pak) in this new folder.
+9. Play the game! 
+
+You can edit the mod loading order list from the menu. Once the list is changed and applied, it is recommended that you restart the game to ensure all
+assets are effected by the change. You can also edit the load order from the "ModLoadOrder.txt" in the /Mercury directory.
+
+To hotswap a mod, rename the updated pak with '.staged' at the end and add it to the /Mods folder.
 The mod manager will detect this change and replace the old pak with the new one. This is very experimental. 
 The affected assets need to be reloaded e.g: if you are currently in a heist, quit to the main menu then reload the heist.
