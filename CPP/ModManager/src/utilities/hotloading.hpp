@@ -1,3 +1,5 @@
+#pragma once
+
 #include <DynamicOutput/Output.hpp>
 #include <Mod/CppUserModBase.hpp>
 
@@ -15,64 +17,36 @@
 #include <Unreal/UnrealVersion.hpp>
 #include <Unreal/FString.hpp>
 
+#include <utilities/debug.hpp>
+#include <utilities/files.hpp>
+#include <utilities/http.hpp>
+
 #include <windows.h>
+
+namespace fs = std::filesystem;
+
+namespace debug = MMM::utilities::debug;
+namespace files = MMM::utilities::files;
+namespace http = MMM::utilities::http;
+
 
 namespace MMM
 {
     using namespace RC;
+    using namespace fs;
 
     namespace utilities
     {
-        namespace debug
-        {
-            //UE4SS Debug Console outputs
-            void Error(std::wstring msg)
-            {
-                Output::send<LogLevel::Error>(STR("[Mod Manager]: {}\n"), msg);
-            }
-            void Error2(std::wstring a, std::wstring b)
-            {
-                Output::send<LogLevel::Error>(STR("[Mod Manager]: {} {}\n"), a, b);
-            }
-            void Warn(std::wstring msg)
-            {
-                Output::send<LogLevel::Warning>(STR("[Mod Manager]: {}\n"), msg);
-            }
-            void Warn2(std::wstring a, int b)
-            {
-                Output::send<LogLevel::Warning>(STR("[Mod Manager]: {} ({})\n"), a, b);
-            }
-            void Warn2(std::wstring a, std::wstring b)
-            {
-                Output::send<LogLevel::Warning>(STR("[Mod Manager]: {} {}\n"), a, b);
-            }
-            void Debug(std::wstring msg)
-            {
-                Output::send<LogLevel::Verbose>(STR("[Mod Manager]: {}\n"), msg);
-            }
-            void Debug2(std::wstring a, std::wstring b)
-            {
-                Output::send<LogLevel::Verbose>(STR("[Mod Manager]: {} {}\n"), a, b);
-            }
-            void Debug2(std::wstring msg, void* ptr)
-            {
-                Output::send<LogLevel::Verbose>(STR("[Mod Manager]: {} {}\n"), msg, ptr);
-            }
-            void Debug3(std::wstring msg, void* ptr, int num)
-            {
-                Output::send<LogLevel::Verbose>(STR("[Mod Manager]: {} {} ({})\n"), msg, ptr, num);
-            }
-        } //namespace debug
-
         namespace hotloading
         {
-            //Based off of @TrumanK's PakReloader 
-            //(https://github.com/trumank/RE-UE4SS/blob/ed26754e1032e335c70529edcf3c305a9f37614a/mods/pak_reloader/src/PakReloader.cpp#L167)
+            // Based off of @TrumanK's PakReloader 
+            // (https://github.com/trumank/RE-UE4SS/blob/ed26754e1032e335c70529edcf3c305a9f37614a/mods/pak_reloader/src/PakReloader.cpp#L167)
             // and @Turncoda's Autotload (https://github.com/turncoda/autoload)
 
             using namespace RC::Unreal;
 
             std::filesystem::path g_pak_dir;
+            bool IsThreadPaused = false;
 
             void StartDirWatcher();
             DWORD WINAPI ThreadProc(LPVOID);
@@ -125,7 +99,7 @@ namespace MMM
 
             bool OnMatchFound(SignatureContainer& container)
             {
-                MMM::utilities::debug::Debug2(L"Found signature match for FPakPlatformFile dtor:", (void*)container.get_match_address());
+                debug::Debug2(STR("Found signature match for FPakPlatformFile dtor:"), (void*)container.get_match_address());
 
                 int num = 0;
 
@@ -146,7 +120,7 @@ namespace MMM
                         {
                             last = ptr;
 
-                            MMM::utilities::debug::Debug3(L"Found delegate:", ptr, num);
+                            debug::Debug3(STR("Found delegate:"), ptr, num);
 
                             switch (num)
                             {
@@ -167,11 +141,11 @@ namespace MMM
 
             void OnScanFinished(const SignatureContainer& container)
             {
-                MMM::utilities::debug::Debug2(L"Mount delegate address:", (void*)g_mount_delegate_ptr);
-                MMM::utilities::debug::Debug2(L"Unmount delegate address:", (void*)g_unmount_delegate_ptr);
+                debug::Debug2(STR("Mount delegate address:"), (void*)g_mount_delegate_ptr);
+                debug::Debug2(STR("Unmount delegate address:"), (void*)g_unmount_delegate_ptr);
                 if (!container.get_did_succeed())
                 {
-                    MMM::utilities::debug::Warn(L"Failed to find or resolve delegates");
+                    debug::Warn(STR("Failed to find or resolve delegates"));
                     return;
                 }
 
@@ -180,7 +154,7 @@ namespace MMM
 
                 if (!g_mount || !g_unmount)
                 {
-                    MMM::utilities::debug::Warn(L"Failed to bind mount and unmount functions");
+                    debug::Warn(STR("Failed to bind mount and unmount functions"));
                     return;
                 }
 
@@ -195,7 +169,7 @@ namespace MMM
             {
                 if (gh_dir_watcher_thread != NULL)
                 {
-                    MMM::utilities::debug::Error(L"Tried to create new directory watcher thread but thread already "
+                    debug::Error(L"Tried to create new directory watcher thread but thread already "
                         L"exists!");
                     return;
                 }
@@ -206,53 +180,54 @@ namespace MMM
                                                     0, // flags
                                                     NULL // thread id
                 );
-                if (gh_dir_watcher_thread == NULL) { MMM::utilities::debug::Error(L"Failed to create directory watcher thread"); }
+                if (gh_dir_watcher_thread == NULL) { debug::Error(L"Failed to create directory watcher thread"); }
             }
 
             DWORD WINAPI ThreadProc(LPVOID lpParam)
             {
-                HANDLE h_dir_change = FindFirstChangeNotificationA(g_pak_dir.string().c_str(), false, FILE_NOTIFY_CHANGE_FILE_NAME);
-                if (h_dir_change == INVALID_HANDLE_VALUE)
-                {
-                    MMM::utilities::debug::Error(L"FindFirstChangeNotificationA returned invalid handle");
-                    return 1;
-                }
-                MMM::utilities::debug::Debug2(L"Now watching for changes in", g_pak_dir.wstring());
-                HANDLE handles[2] = {h_dir_change, gh_thread_exit_event};
-                while (true)
-                {
-                    DWORD wait_status = WaitForMultipleObjects(2, // max num wait objects
-                                                            handles, // pointer to handles
-                                                            FALSE, // return on any handle signaled
-                                                            INFINITE // timeout
-                    );
-                    if (wait_status == WAIT_OBJECT_0 + 1)
+                    //ResumeThread(gh_dir_watcher_thread);
+                    HANDLE h_dir_change = FindFirstChangeNotificationA(g_pak_dir.string().c_str(), false, FILE_NOTIFY_CHANGE_FILE_NAME);
+                    if (h_dir_change == INVALID_HANDLE_VALUE)
                     {
-                        MMM::utilities::debug::Debug(L"Directory watcher thread is shutting down...");
-                        break;
+                        debug::Error(L"FindFirstChangeNotificationA returned invalid handle");
+                        return 1;
                     }
-                    if (wait_status != WAIT_OBJECT_0)
+                    debug::Debug2(L"Now watching for changes in", g_pak_dir.wstring());
+                    HANDLE handles[2] = {h_dir_change, gh_thread_exit_event};
+                    while (true)
                     {
-                        MMM::utilities::debug::Error(L"WaitForMultipleObjects failed");
-                        break;
-                    }
+                        DWORD wait_status = WaitForMultipleObjects(2, // max num wait objects
+                                                                handles, // pointer to handles
+                                                                FALSE, // return on any handle signaled
+                                                                INFINITE // timeout
+                        );
+                        if (wait_status == WAIT_OBJECT_0 + 1)
+                        {
+                            debug::Debug(L"Directory watcher thread is shutting down...");
+                            break;
+                        }
+                        if (wait_status != WAIT_OBJECT_0)
+                        {
+                            debug::Error(L"WaitForMultipleObjects failed");
+                            break;
+                        }
 
-                    MMM::utilities::debug::Debug2(L"Change detected in:", g_pak_dir.wstring());
-                    // handle change
-                    CommitStagedPaks(g_pak_dir);
+                        debug::Debug2(L"Change detected in:", g_pak_dir.wstring());
+                        // handle change
+                        CommitStagedPaks(g_pak_dir);
 
-                    if (!FindNextChangeNotification(h_dir_change))
-                    {
-                        MMM::utilities::debug::Error(L"FindNextChangeNotification failed");
-                        break;
+                        if (!FindNextChangeNotification(h_dir_change))
+                        {
+                            debug::Error(L"FindNextChangeNotification failed");
+                            break;
+                        }
                     }
-                }
-                if (!FindCloseChangeNotification(h_dir_change))
-                {
-                    MMM::utilities::debug::Error(L"FindCloseChangeNotification failed");
-                    return 1;
-                }
-                return 0;
+                    if (!FindCloseChangeNotification(h_dir_change))
+                    {
+                        debug::Error(L"FindCloseChangeNotification failed");
+                        return 1;
+                    }
+                    return 0;
             }
 
             bool IsMounted(std::filesystem::path my_pak)
@@ -273,16 +248,108 @@ namespace MMM
                 MountOnly,
             };
 
+            bool UnmountAll()
+            {
+                debug::Warn(STR("UNMOUNTING ALL PAKS!"));
+
+                if (!g_mount || !g_unmount)
+                {
+                    debug::Error(L"Pak routines are not callable. Aborting commit.");
+                    return false;;
+                }   
+
+                //Unmount paks from ModLoadOrder.txt
+                std::ifstream LoadOrderFile(files::GetModLoadOrder());
+                for( std::string line; std::getline( LoadOrderFile, line ); )
+                {
+                    std::filesystem::path src =  files::GetModFolder() / line;
+                    FString ManualPakPath(src.wstring().c_str());
+                    if (g_unmount(ManualPakPath)) 
+                    {
+                        debug::Debug2(STR(" Unmounted pak: "), src.string());
+                    }
+                    else
+                    {
+                        debug::Error(L"  Failed to unmount pak. Try again later.");
+
+                        if(!fs::exists(src))
+                        {
+                            debug::Error2(STR(" Pak not found, removing from list... "), line);
+                            files::EraseFileLine(files::GetModLoadOrder(), line);
+                        }
+                    }
+                }
+
+                return true;
+            }
+
+            void RemountAll()
+            {
+                debug::Warn(STR("MOUNTING ALL PAKS!"));
+
+                if (!g_mount || !g_unmount)
+                {
+                    debug::Error(L"Pak routines are not callable. Aborting commit.");
+                    return;
+                }
+
+                //Mount paks in order from ModLoadOrder.txt
+                std::ifstream LoadOrderFile(files::GetModLoadOrder());
+                for( std::string line; std::getline( LoadOrderFile, line ); )
+                {
+                    std::filesystem::path src =  files::GetModFolder() / line;
+                    FString ManualPakPath(src.wstring().c_str());
+                    if (g_mount(ManualPakPath, 100)) 
+                    {
+                        debug::Debug2(STR(" Mounted pak: "), src.string());
+                    }
+                    else
+                    {
+                        debug::Error(L"  Failed to mount pak. Try again later.");
+
+                        if(!fs::exists(src))
+                        {
+                            debug::Error2(STR(" Pak not found, removing from list... "), line);
+                            files::EraseFileLine(files::GetModLoadOrder(), line);
+                        }
+                    }
+                }
+            }
+
             void CommitStagedPaks(std::filesystem::path pak_dir)
             {
                 if (!g_mount || !g_unmount)
                 {
-                    MMM::utilities::debug::Error(L"Pak routines are not callable. Aborting commit.");
+                    debug::Error(L"Pak routines are not callable. Aborting commit.");
                     return;
                 }
                 std::error_code err;
                 int num_tries = 0;
                 std::vector<std::tuple<std::filesystem::path, CommitAction>> pak_paths;
+
+                //Mount paks in order from ModLoadOrder.txt
+                std::ifstream LoadOrderFile(files::GetModLoadOrder());
+                for( std::string line; std::getline( LoadOrderFile, line ); )
+                {
+                    std::filesystem::path src =  files::GetModFolder() / line;
+                    FString ManualPakPath(src.wstring().c_str());
+                    if (g_mount(ManualPakPath, 100)) 
+                    {
+                        debug::Debug2(STR(" Mounted pak: "), src.string());
+                    }
+                    else
+                    {
+                        debug::Error(L"  Failed to mount pak. Try again later.");
+
+                        if(!fs::exists(src))
+                        {
+                            debug::Error2(STR(" Pak not found, removing from list... "), line);
+                            files::EraseFileLine(files::GetModLoadOrder(), line);
+                        }
+                    }
+                }
+
+                // If pak is not already in ModLoadOrder.txt -> Mount pak and add it to end of ModLoadOrder.txt
                 for (const auto& dir_entry : std::filesystem::recursive_directory_iterator(pak_dir))
                 {
                     if (!dir_entry.is_regular_file()) { continue; }
@@ -291,13 +358,28 @@ namespace MMM
                     {
                         if (!IsMounted(src))
                         {
-                            MMM::utilities::debug::Debug2(L"Found pak that is not already mounted:", src.wstring());
-                            MMM::utilities::debug::Debug(L"Will mount.");
+                            debug::Debug2(L"Found pak that is not already mounted:", src.wstring());
+                            debug::Debug(L"Will mount.");
                             pak_paths.push_back(std::make_tuple(src, CommitAction::MountOnly));
+
+                            // Adds pak to end of ModLoadOrder.txt
+                            std::ofstream file;
+                            file.open(files::GetModLoadOrder(), std::ios::app);
+                            if (!file.is_open()) 
+                            { 
+                                debug::Error(STR("Error opening ModLoadOrder.txt!!!"));
+                            } 
+                            else 
+                            {
+                                debug::Debug2(STR("Adding pak to list: "), dir_entry.path().filename().string());
+                                file << dir_entry.path().filename().string() << std::endl;
+
+
+                            }
                         }
                         else
                         {
-                            MMM::utilities::debug::Debug2(L"Found mounted pak:", src.wstring());
+                            debug::Debug2(L"Found mounted pak:", src.wstring());
                         }
                     }
                     else if (dir_entry.path().extension() == ".staged")
@@ -307,14 +389,14 @@ namespace MMM
                         std::filesystem::directory_entry dst_entry(dst);
                         if (std::filesystem::exists(dst))
                         {
-                            MMM::utilities::debug::Debug2(L"Found staged changes for:", dst.filename().wstring());
-                            MMM::utilities::debug::Debug(L"Will hot swap.");
+                            debug::Debug2(L"Found staged changes for:", dst.filename().wstring());
+                            debug::Debug(L"Will hot swap.");
                             pak_paths.push_back(std::make_tuple(src, CommitAction::HotSwap));
                         }
                         else
                         {
-                            MMM::utilities::debug::Debug2(L"Found staged file without counterpart:", src.filename().wstring());
-                            MMM::utilities::debug::Debug(L"Will rename and mount.");
+                            debug::Debug2(L"Found staged file without counterpart:", src.filename().wstring());
+                            debug::Debug(L"Will rename and mount.");
                             pak_paths.push_back(std::make_tuple(src, CommitAction::RenameAndMount));
                         }
                     }
@@ -326,36 +408,37 @@ namespace MMM
                     std::filesystem::path dst(src);
                     dst.replace_filename(src.stem());
                     FString fstr_dst(dst.wstring().c_str());
+                    FString PakPath(src.wstring().c_str());
                     const int max_retries = 10;
                     int num_retries = 0;
-                    MMM::utilities::debug::Debug2(L"Working on:", dst.filename().wstring());
+                    debug::Debug2(L"Working on:", dst.filename().wstring());
                     switch (action)
                     {
                     case CommitAction::HotSwap:
                         if (g_unmount(fstr_dst))
                         {
-                            MMM::utilities::debug::Debug(L"  Unmounted pak.");
+                            debug::Debug(L"  Unmounted pak.");
                         }
                         else
                         {
-                            MMM::utilities::debug::Warn(L"  Failed to unmount pak. Attempting to proceed...");
+                            debug::Warn(L"  Failed to unmount pak. Attempting to proceed...");
                         }
 
                         num_retries = 0;
                         err.clear();
-                        MMM::utilities::debug::Debug(L"  Deleting pak...");
+                        debug::Debug(L"  Deleting pak...");
                         while (num_retries < max_retries)
                         {
                             std::filesystem::remove(dst, err);
                             if (!err) {
                             break;
                             }
-                            MMM::utilities::debug::Warn(L"  Delete failed. Sleeping for 1s and trying again...");
+                            debug::Warn(L"  Delete failed. Sleeping for 1s and trying again...");
                             num_retries++;
                             std::this_thread::sleep_for(std::chrono::milliseconds(1000));
                         }
                         if (num_retries == max_retries) {
-                            MMM::utilities::debug::Error(L"  Delete failed. Aborting...");
+                            debug::Error(L"  Delete failed. Aborting...");
                             continue;
                         }
 
@@ -365,24 +448,24 @@ namespace MMM
                         // fallthrough
                     case CommitAction::RenameAndMount:
                         err.clear();
-                        MMM::utilities::debug::Debug(L"  Renaming staged pak...");
+                        debug::Debug(L"  Renaming staged pak...");
                         std::filesystem::rename(src, dst, err);
                         while (err)
                         {
-                            MMM::utilities::debug::Warn(L"  Rename failed. Sleeping for 200ms and trying again...");
+                            debug::Warn(L"  Rename failed. Sleeping for 200ms and trying again...");
                             std::this_thread::sleep_for(std::chrono::milliseconds(200));
                             std::filesystem::rename(src, dst, err);
                         }
 
                         // fallthrough
                     case CommitAction::MountOnly:
-                        if (g_mount(fstr_dst, 100))
+                        if (g_mount(PakPath, 100)) 
                         {
-                            MMM::utilities::debug::Debug(L"  Mounted pak.");
+                            debug::Debug(L"  Mounted pak.");
                         }
                         else
                         {
-                            MMM::utilities::debug::Error(L"  Failed to mount pak. Try again later.");
+                            debug::Error(L"  Failed to mount pak. Try again later.");
                         }
                         // fallthrough
                     }
@@ -395,52 +478,52 @@ namespace MMM
             {
                 if (gh_dir_watcher_thread != NULL)
                 {
-                    MMM::utilities::debug::Debug(L"Asking directory watcher thread to shut itself down...");
+                    debug::Debug(L"Asking directory watcher thread to shut itself down...");
                     SetEvent(gh_thread_exit_event);
                     DWORD wait_status = WaitForSingleObject(gh_dir_watcher_thread, 10000);
                     if (wait_status == WAIT_TIMEOUT)
                     {
-                        MMM::utilities::debug::Error(L"Directory watcher thread did not shut down after 10 seconds. "
+                        debug::Error(L"Directory watcher thread did not shut down after 10 seconds. "
                             L"Terminating.");
                         if (!TerminateThread(gh_thread_exit_event, 1))
                         {
-                            MMM::utilities::debug::Error(L"Something went wrong while forcibly terminating the thread.");
+                            debug::Error(L"Something went wrong while forcibly terminating the thread.");
                             throw;
                         }
                     }
                     else if (wait_status != WAIT_OBJECT_0)
                     {
-                        MMM::utilities::debug::Error(L"Something went wrong while waiting for thread to shut down.");
+                        debug::Error(L"Something went wrong while waiting for thread to shut down.");
                         throw;
                     }
-                    MMM::utilities::debug::Debug(L"Directory watcher thread has shut down.");
+                    debug::Debug(L"Directory watcher thread has shut down.");
                 }
 
                 if (!CloseHandle(gh_thread_exit_event))
                 {
-                    MMM::utilities::debug::Error(L"Something went wrong while closing the thread exit event.");
+                    debug::Error(L"Something went wrong while closing the thread exit event.");
                     throw;
                 }
-                MMM::utilities::debug::Debug(L"Closed thread exit event.");
+                debug::Debug(L"Closed thread exit event.");
             }
 
             void Init()
             {
-                if (gh_thread_exit_event != NULL) { MMM::utilities::debug::Warn(L"Recreating ThreadExitEvent even though it already exists."); }
+                if (gh_thread_exit_event != NULL) { debug::Warn(L"Recreating ThreadExitEvent even though it already exists."); }
                 gh_thread_exit_event = CreateEvent(NULL, // default security attributes
                                                 TRUE, // manual-reset event
                                                 FALSE, // initial state is nonsignaled
                                                 TEXT("ThreadExitEvent") // object name
                 );
-                if (gh_thread_exit_event == NULL) { MMM::utilities::debug::Error(L"Failed to create ThreadExitEvent"); }
+                if (gh_thread_exit_event == NULL) { debug::Error(L"Failed to create ThreadExitEvent"); }
 
                 std::filesystem::path working_dir = UE4SSProgram::get_program().get_working_directory();
-                g_pak_dir = working_dir.parent_path().parent_path() / "Mods";
+                g_pak_dir = working_dir.parent_path().parent_path() / "Mercury" / "Mods";
                 if (!std::filesystem::exists(g_pak_dir))
                 {
-                    MMM::utilities::debug::Error2(L"Mods directory does not exist:", g_pak_dir.wstring());
+                    debug::Error2(L"Mods directory does not exist:", g_pak_dir.wstring());
 
-                    MMM::utilities::debug::Error(L"Creating Mods directory...");
+                    debug::Error(L"Creating Mods directory...");
 
                     std::filesystem::create_directory(g_pak_dir);
                     return;
@@ -449,21 +532,16 @@ namespace MMM
 
             void ScanForPakRoutines()
             {
-                if (g_mount && g_unmount) { MMM::utilities::debug::Warn(L"Mount and Unmount routines already found; rescanning anyway"); }
+                if (g_mount && g_unmount) { debug::Warn(L"Mount and Unmount routines already found; rescanning anyway"); }
                 // Signature for FPakPlatformFile dtor in UE 4.27
                 SignatureData sig{"40 53 56 57 48 83 ec 20 48 8d 05 ?? ?? ?? ?? 4c 89 74 24 50 48 89 01 48 8b f9 e8 ?? ?? ?? ?? 48 8b c8"};
                 std::vector<RC::SignatureData> sigs = {sig};
                 RC::SignatureContainer container(sigs, OnMatchFound, OnScanFinished);
                 RC::SinglePassScanner::SignatureContainerMap container_map{{ScanTarget::Core, {container}}};
-                MMM::utilities::debug::Debug(L"Scanning for Mount and Unmount routines...");
+                debug::Debug(L"Scanning for Mount and Unmount routines...");
                 RC::SinglePassScanner::start_scan(container_map);
             }
 
         } //namespace hotloading
-
-        namespace 
-        {
-
-        } //namespace 
     }
 }
