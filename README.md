@@ -27,7 +27,8 @@ This could eventually be included in zModLoader as MMM will utilise the same mod
    - [x] Setup a base widget for each detected pak
    - [x] Setup a list widget that displays each pack in order
    - [x] Allow the player to modify the order of this list by using Up and Down buttons or drag and drop
-   - [ ] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
+   - [x] On applied, Unmount all paks and remount them in the new order (Possibly have to restart game here)
+      - [ ] Fix issue with some paks not unmountin or being affected by load order
 
 
 ### In Progress 
