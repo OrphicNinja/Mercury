@@ -58,7 +58,7 @@ Hot Loading sort of works, kinda maybe. Its experimental.
 2. Download [Logic Mod Loader](https://modworkshop.net/mod/44049). Currently a lot of mods cause crashes with the
 latest version. Try using this [old version](https://drive.google.com/file/d/1WOpwp0hHY6JGL1G8cqVDqHbB-SEbH0zY/view) instead
 3. Clone the repo and navigate to /Build
-4. Extract the v0.0.1 zip into your game root directory. 
+4. Extract the zip from /Build into your game root directory. 
 The location of this folder will vary depending on your installation preferences & storefront.
 ![STEAM.png](Imgs%2FSTEAM.png)
 ![EGS.png](Imgs%2FEGS.png)
