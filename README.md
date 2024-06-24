@@ -1,6 +1,6 @@
-# PD3-ModManager
+# MERCURY MOD MANAGER
 
-STILL IN DEVELOPMENT 
+*STILL IN DEVELOPMENT*
 
 The goal of this is to create a centralized mod / collection of mods that work together to allow players to easily manage and update their mods. It will display their installed mods on a new tab in the main menu and inform them if a mod is outdated, giving them the option to update straight from the mods tab. This mod will also handle mod settings and allow mod authors to easily implement their own mod settings that can be used in their logic mods. 
 
