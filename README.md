@@ -53,7 +53,7 @@ The location of this folder will vary depending on your installation preferences
 6. Edit the mods.txt and add ```MercuryModManager : 1``` 
 7. Open the game once and quit. The mod manager should have created a "/Mercury/Mods" directory in the games root folder.
 This folder is where the mod manager will mount and unmount paks from.
-8. Put all your mods except for (MercuryModManager_P.pak and zModLoader.pak) in this new folder.
+8. Put all your mods (except for MercuryModManager_P.pak and zModLoader.pak, these go in the usual ~mods folder) in this new folder.
 9. Play the game! 
 
 You can edit the mod loading order list from the menu. Once the list is changed and applied, it is recommended that you restart the game to ensure all
