@@ -9,7 +9,7 @@ You also need `/Mercury/Blueprints/BP_ModManager.uasset`, `/Mercury/Blueprints/P
 Keep in mind you **do** still need the ModMeta that `zModLoader_P` uses.
 
 ### Modifying Setting DataAssets
-![ExampleModSetting.uasset opened in Unreal Engine](Imgs/image.png)
+![ExampleModSetting.uasset opened in Unreal Engine](Imgs/ExampleModSetting.png)
 Above is how the basic ExampleModSetting looks, make a copy of it for each functionality mod with settings you have and make sure to include it in your mod pak when packing your mod for testing or publishing.
 
 The Mod Name input speaks for itself, pay attention to capitalisation, as you will need to remember how exactly it is written for your blueprint(s).
