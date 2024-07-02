@@ -33,3 +33,7 @@ The affected assets need to be reloaded e.g: if you are currently in a heist, qu
 [How to make your mod compatible with Mercury]()
 
 [How to create mod settings](https://github.com/OrphicNinja/Mercury/blob/main/MODDING.md)
+
+### SOURCE PROJECT
+
+[XMAKE-REPO > Dev branch](https://github.com/xmake-io/xmake-repo) is needed as an additional library when building with xmake. This is mainly for the 11zip include.
