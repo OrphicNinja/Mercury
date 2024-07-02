@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AssetDumper.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Intermediate\Build\Win64\PAYDAY3Editor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.obj"
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.cpp.obj"
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.gen.cpp.obj"
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Default.rc2.res"
+/OUT:"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\UE4Editor-AssetDumper.lib"

@@ -1,0 +1,200 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\Starbreeze\Definitions.Starbreeze.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGameViewportClient.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGameViewportClient.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGameViewportClient.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasCellHitData.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGasCellHitData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasCellHitData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasDamageEffect.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGasDamageEffect.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZVolumeDamageEffect.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffect.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AttributeSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\ScalableFloat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public\DataRegistryId.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UE4Editor\Inc\DataRegistry\DataRegistryId.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\ScalableFloat.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicalMaterials/PhysicalMaterial.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsEnums.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicsSettingsEnums.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicalMaterial.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemLog.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\VisualLogger\VisualLoggerCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffectTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectAggregator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayPrediction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayPrediction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayAbilitySpec.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilitySpec.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\ActiveGameplayEffectIterator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffect.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZVolumeDamageEffect.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasDamageEffect.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasDamageType.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGasDamageType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZDamageType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZDamageType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasDamageType.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasExplosionData.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGasExplosionData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasExplosionData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasGrenade.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGasGrenade.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZFragGrenade.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZExplosivePhysicsEffectData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZExplosivePhysicsEffectData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZGrenade.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAIVisibilityLeafNode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAIVisibilityLeafNode.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZExplosionResult.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZExplosionResult.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZExplosive.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZExplosive.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZThrowable.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZThrowableState.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZThrowableState.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZEquippable.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZEquippableConfig.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZEquippablePartConfigGroup.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZEquippablePartConfigGroup.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZEquippableConfig.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZEquippable.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZProjectileInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZProjectileInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZThrowable.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGrenade.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZFragGrenade.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZGasVolumeTarget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasVolumeTarget.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZVolumeDamageInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZVolumeDamageInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasGrenade.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasGrenadeData.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGasGrenadeData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZDifficulty.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZDifficulty.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZFragGrenadeData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZGrenadeData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZThrowableData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZInventoryBaseData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemRarity.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemRarity.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZInventoryBaseData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZThrowableData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGrenadeData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZHurtReactionData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZDamageWeight.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZDamageWeight.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZHurtReactionData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZHurtReactionDataInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZHurtReactionDataInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZFragGrenadeData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasGrenadeData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasVolumeComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGasVolumeComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZGasCellGrowMode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZGasCellGrowMode.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZLocalGasLocations.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZLocalGasLocation.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZLocalGasLocation.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZLocalGasLocations.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGasVolumeComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGasVolumeTarget.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGate.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AISightTargetInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISightTargetInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavLinkHostInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavLinkHostInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZGateSoundReduction.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZGateSoundReduction.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZGateState.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZGateState.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAIActionInteractableInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAIActionInteractableInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAIAttractorInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAIAttractorInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAgilityObstacleInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAgilityObstacleInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZGateExplosionData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZExplosionBox.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZExplosionBox.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGateExplosionData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZGateMeshData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZComponentSelector.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZComponentSelector.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGateMeshData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZGateStateChangedDelegateDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGateStateChangedDelegateDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZToolSnapInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZToolSnapInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGate.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGateExplosionData.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGateMeshData.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGateNavAgentInterface.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGateNavAgentInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGateNavAgentInterface.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGateNavLinkAgilityComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGateNavLinkAgilityComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZNavLinkAgilityComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZAgilityType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZAgilityType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAgilityTrajectory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAgilityTrajectoryPoint.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZAgilityPointType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZAgilityPointType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAgilityTrajectoryPoint.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAgilityTrajectory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZNavLinkAgilityComponent.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGateNavLinkAgilityComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGateNavLinkComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGateNavLinkComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavLinkCustomInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavLinkCustomInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAgilityTrajectoryInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAgilityTrajectoryInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZBlockableNavlinkInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZBlockableNavlinkInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZRoomConnectorInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZRoomConnectorInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGateNavLinkComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGateStateChangedDelegateDelegate.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGenericPool.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGenericPool.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGenericPool.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGetCurrencyRequestQueue.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGetCurrencyRequestQueue.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGetCurrencyRequestQueue.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGhostTool.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGhostTool.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZPlacementState.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZPlacementState.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGhostTool.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZGlobalItemDatabase.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZGlobalItemDatabase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZGlobalItemDatabase.generated.h

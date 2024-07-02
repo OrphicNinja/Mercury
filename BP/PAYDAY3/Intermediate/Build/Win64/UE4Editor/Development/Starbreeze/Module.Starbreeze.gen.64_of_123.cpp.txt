@@ -1,0 +1,236 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\Starbreeze\Definitions.Starbreeze.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZLootTypeData.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZLootTypeData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZLootTypeData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZLootValueArray.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZLootValueArray.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZLootValueArray.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZLure.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZLure.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\EPD3HeistState.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\EPD3HeistState.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZAIAttractorInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZAIAttractorInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZRoomVolumeInterface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZRoomVolumeInterface.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZLure.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuBaseChallengeButton.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuBaseChallengeButton.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZChallengeData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\EChallengeStatusEnum.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\EChallengeStatusEnum.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZChallengeConversion.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZChallengeConversion.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZChallengeProgressItem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZChallengeProgressItem.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZChallengeProgressStat.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZChallengeProgressStat.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZChallengeRewardItem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZChallengeRewardItem.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZChallengeData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZMenuButton.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\OnMenuButtonSelectedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\OnMenuButtonSelectedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\OnMenuButtonStateChangedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\OnMenuButtonStateChangedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZWidgetBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZWidgetBase.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMenuButton.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuBaseChallengeButton.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuBaseWidget.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuBaseWidget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuBaseWidget.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuCameraManager.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuCameraManager.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuCameraManager.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuChallengeButton.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuChallengeButton.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuChallengeButton.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuChallengeCategoryButton.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuChallengeCategoryButton.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuChallengeCategoryButton.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuChallengeCategorySelectionScreen.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuChallengeCategorySelectionScreen.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZMenuStackScreenWidget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZMenuStackWidget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZUIStackChangedEvent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZUIStackChangedEvent.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMenuStackWidget.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMenuStackScreenWidget.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuChallengeCategorySelectionScreen.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuChallengeScreenDescriptionPanel.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuChallengeScreenDescriptionPanel.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuChallengeScreenDescriptionPanel.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuChallengeStatDisplay.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuChallengeStatDisplay.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuChallengeStatDisplay.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuChallengesWidget.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuChallengesWidget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZMenuStackScreenWidgetWithTutorial.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZPopupType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZPopupType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMenuStackScreenWidgetWithTutorial.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuChallengesWidget.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuCharacterDisplayPanel.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuCharacterDisplayPanel.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuCharacterDisplayPanel.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuCosmetic.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuCosmetic.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZEquippableLoadoutSlot.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZEquippableLoadoutSlot.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemCategory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemCategory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZMainMenuCosmeticType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZMainMenuCosmeticType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZMetaRequestResult.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZMetaRequestResult.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZEquippablePartConfigGroup.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZEquippablePartConfigGroup.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZStoreBaseItem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZCurrencyCode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZCurrencyCode.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemCurrencyType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemCurrencyType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemLockReason.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemLockReason.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemRarity.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemRarity.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZStoreItemPlatform.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZStoreItemPlatform.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZStoreItemUICategory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZStoreItemDefaultUICategory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZStoreItemDefaultUICategory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZStoreItemUICategoryType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZStoreItemUICategoryType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZStoreItemUICategory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZStoreBaseItem.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuCosmetic.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuCosmeticItemButton.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuCosmeticItemButton.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuCosmeticItemButton.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZMainMenuCosmeticPanel.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZMainMenuCosmeticPanel.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\OnCosmeticButtonSelectedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\OnCosmeticButtonSelectedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\OnCosmeticButtonStateChangedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\OnCosmeticButtonStateChangedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\OnDefaultButtonPressedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\OnDefaultButtonPressedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZCosmeticPanelInitParams.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZCosmeticPanelDefaultParams.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZCosmeticPanelDefaultParams.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZCosmeticsInventoryItem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZInventoryItem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZInventoryItem.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZCosmeticsInventoryItem.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZCosmeticPanelInitParams.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZMainMenuCosmeticPanel.generated.h

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ACLPluginEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\PAYDAY3Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPluginEditor\Module.ACLPluginEditor.cpp.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPluginEditor\Module.ACLPluginEditor.gen.cpp.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPluginEditor\Default.rc2.res"
+/OUT:"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPluginEditor\UE4Editor-ACLPluginEditor.lib"

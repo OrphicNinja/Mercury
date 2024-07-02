@@ -1,0 +1,190 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\Starbreeze\Definitions.Starbreeze.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnManagerFunctionLibrary.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnManagerFunctionLibrary.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZSpawnRequestStatus.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZSpawnRequestStatus.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZActorSpawnRequest.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZActorSpawnRequest.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZActorSpawnRequestDoneDynamicDelegateDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZActorSpawnRequestHandle.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZActorSpawnRequestHandle.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZActorSpawnRequestDoneDynamicDelegateDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZActorSpawnRequestDynamicDelegateDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZActorSpawnRequestDynamicDelegateDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZPawnSpawnDynamicDelegateDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZPawnSpawnRequestHandle.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZPawnSpawnRequestHandle.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZPawnSpawnDynamicDelegateDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZPawnSpawnRequest.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZSpawnSignificance.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZSpawnSignificance.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZPawnSpawnRequest.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZPawnSpawnRequestDoneDynamicDelegateDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZPawnSpawnRequestDoneDynamicDelegateDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSpawnRequestOptions.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnRequestOptions.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnManagerFunctionLibrary.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnNotifyOnce.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnNotifyOnce.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnNotifyOnce.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnRequestCompletedDelegateDelegate.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnRequestCompletedDelegateDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnRequestCompletedDelegateDelegate.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnRequestOptions.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnRotationHandlingMethod.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnRotationHandlingMethod.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZSpawnRotationMethod.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZSpawnRotationMethod.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnRotationHandlingMethod.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnStaticInteractionInterface.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnStaticInteractionInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnStaticInteractionInterface.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnTowerShieldNotifyState.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnTowerShieldNotifyState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotifyState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotifyState.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnTowerShieldNotifyState.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveFilteredOrder.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnWaveFilteredOrder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveFilteredOrder.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveManager.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnWaveManager.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZDifficulty.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZDifficulty.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSpawnWaveSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSpawnWaveSegmentSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveSegmentSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSpawnWaveSquadOrderLimits.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveSquadOrderLimits.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSpawnWaveTypeLimit.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveTypeLimit.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveManager.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveManagerDifficultySettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnWaveManagerDifficultySettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveManagerDifficultySettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveProgressionComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnWaveProgressionComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZProgressionWaveMapping.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZProgressionWaveMapping.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveProgressionComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveSegmentSettings.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveSettings.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveSettingsProxyComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpawnWaveSettingsProxyComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpawnWaveSettingsProxyComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveSquadOrderLimits.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpawnWaveTypeLimit.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpecialAIComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpecialAIComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpecialAIComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpectateCameraSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpectateCameraSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZCameraViewRestriction.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZCameraViewRestriction.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpectateCameraSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpectateTargetChangedDelegateDelegate.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpectateTargetChangedDelegateDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpectateTargetChangedDelegateDelegate.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpectatorPawn.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpectatorPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpectatorPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DefaultPawn.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpectatorPawn.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpectatorPawn.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpeedWarpingData.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpeedWarpingData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpeedWarpingData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpeedWarpingFootDefinition.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpeedWarpingFootDefinition.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpeedWarpingFootDefinition.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpline.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpline.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSplineOnEndReachedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSplineOnEndReachedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSplineOnEnterDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSplineOnEnterDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSplineOnLeftDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSplineOnLeftDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZSplineOnStopDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSplineOnStopDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpline.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSplineComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSplineComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZSplineType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZSplineType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZYawControl.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZYawControl.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSplineComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSplineOnEndReachedDelegate.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSplineOnEnterDelegate.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSplineOnLeftDelegate.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSplineOnStopDelegate.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSprayCanData.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSprayCanData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZCosmeticsDataAsset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZRarity.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZRarity.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZEquippablePartDataAsset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZWeaponAttribute.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZWeaponAttribute.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZEquippablePartUIData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZWeaponModificationUIData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZWeaponModificationUIData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZEquippablePartUIData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZModularPartDataAsset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZInventoryBaseData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemRarity.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemRarity.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZInventoryBaseData.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZModularPartDataAsset.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZEquippablePartDataAsset.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZCosmeticsDataAsset.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSprayCanData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSprayCanDatabase.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSprayCanDatabase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZItemDatabase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZItemDatabase.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSprayCanDatabase.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSprayCanStoreItem.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSprayCanStoreItem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZStoreBaseItem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZCurrencyCode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZCurrencyCode.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemCategory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemCategory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemCurrencyType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemCurrencyType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZItemLockReason.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZItemLockReason.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZStoreItemPlatform.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZStoreItemPlatform.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\SBZStoreItemUICategory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZStoreItemDefaultUICategory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZStoreItemDefaultUICategory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze\Public\ESBZStoreItemUICategoryType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\ESBZStoreItemUICategoryType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZStoreItemUICategory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZStoreBaseItem.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSprayCanStoreItem.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSpringArmComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSpringArmComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSpringArmComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Intermediate/Build/Win64/UE4Editor/Inc/Starbreeze/SBZSquadLimits.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Source\Starbreeze/Public/SBZSquadLimits.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Inc\Starbreeze\SBZSquadLimits.generated.h

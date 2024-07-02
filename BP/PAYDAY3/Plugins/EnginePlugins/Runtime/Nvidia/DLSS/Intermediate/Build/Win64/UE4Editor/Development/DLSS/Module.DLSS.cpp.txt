@@ -1,0 +1,12 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSS\Definitions.DLSS.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Runtime/Nvidia/DLSS/Source/DLSS/Private/DLSSModule.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Runtime/Nvidia/DLSS/Source/DLSS/Private/DLSSOverrideSettings.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Source\DLSS\Public\DLSSOverrideSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Source\DLSS\Public\EDLSSSettingOverride.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSS\EDLSSSettingOverride.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSS\DLSSOverrideSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Runtime/Nvidia/DLSS/Source/DLSS/Private/DLSSSettings.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Source\DLSS\Public\DLSSSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Source\DLSS\Public\EDLSSPreset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSS\EDLSSPreset.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Runtime\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSS\DLSSSettings.generated.h

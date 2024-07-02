@@ -1,0 +1,179 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\Definitions.AkAudio.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkTrigger.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkTrigger.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkAudioType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkTrigger.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkTVOSInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkTVOSInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkAdvancedInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAdvancedInitializationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkAudioSession.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\EAkAudioSessionCategory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\EAkAudioSessionCategory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\EAkAudioSessionMode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\EAkAudioSessionMode.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioSession.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkCommonInitializationSettingsWithSampleRate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkCommonInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkMainOutputSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\EAkChannelConfigType.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\EAkChannelConfigType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\EAkPanningRule.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\EAkPanningRule.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkMainOutputSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkSpatialAudioSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSpatialAudioSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkCommonInitializationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkCommonInitializationSettingsWithSampleRate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkCommunicationSettingsWithSystemInitialization.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkCommunicationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkCommunicationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkCommunicationSettingsWithSystemInitialization.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkPlatformInitialisationSettingsBase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkPlatformInitialisationSettingsBase.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkTVOSInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkTVOSPlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkTVOSPlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkPlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkPlatformInfo.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkTVOSPlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiCalls.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWaapiCalls.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AKWaapiJsonObject.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AKWaapiJsonObject.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkWaapiSubscriptionId.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiSubscriptionId.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkWaapiUri.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiUri.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\OnEventCallbackDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\OnEventCallbackDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\OnWaapiConnectionLostDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\OnWaapiConnectionLostDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\OnWaapiProjectLoadedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\OnWaapiProjectLoadedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiCalls.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiFieldNames.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWaapiFieldNames.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiFieldNames.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiJsonManager.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWaapiJsonManager.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiJsonManager.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AKWaapiJsonObject.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiSubscriptionId.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiUri.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWaapiUriConv.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWaapiUriConv.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWaapiUriConv.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWin32PlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWin32PlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWin32PlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWin64PlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWin64PlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWin64PlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWinAnvilInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWinAnvilInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkWinGDKInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkWinGDKAdvancedInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkAdvancedInitializationSettingsWithMultiCoreRendering.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAdvancedInitializationSettingsWithMultiCoreRendering.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWinGDKAdvancedInitializationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWinGDKInitializationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWinAnvilInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWinAnvilPlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWinAnvilPlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkWinGDKPlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWinGDKPlatformInfo.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWinAnvilPlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWindowsAdvancedInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWindowsAdvancedInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWindowsAdvancedInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWindowsInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWindowsInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWindowsInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWindowsPlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWindowsPlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWindowsPlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWinGDKAdvancedInitializationSettings.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWinGDKInitializationSettings.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWinGDKPlatformInfo.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWwiseItemToControl.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWwiseItemToControl.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkWwiseObjectDetails.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWwiseObjectDetails.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWwiseItemToControl.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWwiseObjectDetails.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWwiseTree.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWwiseTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\OnItemDragDetectedDelegate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\OnItemDragDetectedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\OnItemSelectionChangedDelegate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\OnItemSelectionChangedDelegate.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWwiseTree.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkWwiseTreeSelector.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkWwiseTreeSelector.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWwiseTreeSelector.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXB1InitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXB1InitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkXboxOneGDKInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkXboxOneGDKAdvancedInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneGDKAdvancedInitializationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkXboxOneGDKApuHeapInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneGDKApuHeapInitializationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneGDKInitializationSettings.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXB1InitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXB1PlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXB1PlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio\Public\AkXboxOneGDKPlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneGDKPlatformInfo.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXB1PlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneAdvancedInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXboxOneAdvancedInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneAdvancedInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneAnvilInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXboxOneAnvilInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneAnvilInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneAnvilPlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXboxOneAnvilPlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneAnvilPlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneApuHeapInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXboxOneApuHeapInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneApuHeapInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneGDKAdvancedInitializationSettings.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneGDKApuHeapInitializationSettings.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneGDKInitializationSettings.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneGDKPlatformInfo.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOneInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXboxOneInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOneInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXboxOnePlatformInfo.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXboxOnePlatformInfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXboxOnePlatformInfo.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXSXAdvancedInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXSXAdvancedInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXSXAdvancedInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXSXApuHeapInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXSXApuHeapInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXSXApuHeapInitializationSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AkAudio/AkXSXInitializationSettings.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Source\AkAudio/Public/AkXSXInitializationSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkXSXInitializationSettings.generated.h

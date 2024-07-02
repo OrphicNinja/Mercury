@@ -1,0 +1,16 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Intermediate\Build\Win64\UE4Editor\Development\SBZAnalytics\Definitions.SBZAnalytics.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/SBZAnalytics/Intermediate/Build/Win64/UE4Editor/Inc/SBZAnalytics/SBZAccelByteAnalyticsProvider.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Source\SBZAnalytics/Public/SBZAccelByteAnalyticsProvider.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Source\SBZAnalytics\Public\SBZAnalyticsProvider.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\SBZAnalytics\SBZAnalyticsProvider.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\SBZAnalytics\SBZAccelByteAnalyticsProvider.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/SBZAnalytics/Intermediate/Build/Win64/UE4Editor/Inc/SBZAnalytics/SBZAnalytics.init.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/SBZAnalytics/Intermediate/Build/Win64/UE4Editor/Inc/SBZAnalytics/SBZAnalyticsProvider.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/SBZAnalytics/Intermediate/Build/Win64/UE4Editor/Inc/SBZAnalytics/SBZFileAnalyticsProvider.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Source\SBZAnalytics/Public/SBZFileAnalyticsProvider.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\SBZAnalytics\SBZFileAnalyticsProvider.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/SBZAnalytics/Intermediate/Build/Win64/UE4Editor/Inc/SBZAnalytics/SBZMockAnalyticsProvider.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Source\SBZAnalytics/Public/SBZMockAnalyticsProvider.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\SBZAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\SBZAnalytics\SBZMockAnalyticsProvider.generated.h

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AssetGenerator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\PAYDAY3Editor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.cpp.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.gen.cpp.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Default.rc2.res"
+/OUT:"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\UE4Editor-AssetGenerator.lib"

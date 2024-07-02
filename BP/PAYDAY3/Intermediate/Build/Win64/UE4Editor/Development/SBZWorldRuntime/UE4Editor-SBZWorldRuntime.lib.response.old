@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SBZWorldRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\PAYDAYMODS\Tools\MoolahUpdated\1.1.6\PAYDAY3\Intermediate\Build\Win64\PAYDAY3Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\1.1.6\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\SBZWorldRuntime\SBZWorldRuntimeBase.cpp.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\1.1.6\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\SBZWorldRuntime\SBZWorldRuntimeModule.cpp.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\1.1.6\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\SBZWorldRuntime\SBZWorldRuntime.init.gen.cpp.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\1.1.6\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\SBZWorldRuntime\SBZWorldRuntimeBase.gen.cpp.obj"
+"F:\PAYDAYMODS\Tools\MoolahUpdated\1.1.6\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\SBZWorldRuntime\Default.rc2.res"
+/OUT:"F:\PAYDAYMODS\Tools\MoolahUpdated\1.1.6\PAYDAY3\Intermediate\Build\Win64\UE4Editor\Development\SBZWorldRuntime\UE4Editor-SBZWorldRuntime.lib"

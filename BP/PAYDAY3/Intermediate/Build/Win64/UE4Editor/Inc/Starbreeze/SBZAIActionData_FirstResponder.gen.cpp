@@ -1,0 +1,86 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "Starbreeze/Public/SBZAIActionData_FirstResponder.h"
+#ifdef _MSC_VER
+#pragma warning (push)
+#pragma warning (disable : 4883)
+#endif
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeSBZAIActionData_FirstResponder() {}
+// Cross Module References
+	STARBREEZE_API UClass* Z_Construct_UClass_USBZAIActionData_FirstResponder_NoRegister();
+	STARBREEZE_API UClass* Z_Construct_UClass_USBZAIActionData_FirstResponder();
+	STARBREEZE_API UClass* Z_Construct_UClass_USBZAIActionData();
+	UPackage* Z_Construct_UPackage__Script_Starbreeze();
+// End Cross Module References
+	void USBZAIActionData_FirstResponder::StaticRegisterNativesUSBZAIActionData_FirstResponder()
+	{
+	}
+	UClass* Z_Construct_UClass_USBZAIActionData_FirstResponder_NoRegister()
+	{
+		return USBZAIActionData_FirstResponder::StaticClass();
+	}
+	struct Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics
+	{
+		static UObject* (*const DependentSingletons[])();
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
+#endif
+		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
+		static const UE4CodeGen_Private::FClassParams ClassParams;
+	};
+	UObject* (*const Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics::DependentSingletons[])() = {
+		(UObject* (*)())Z_Construct_UClass_USBZAIActionData,
+		(UObject* (*)())Z_Construct_UPackage__Script_Starbreeze,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics::Class_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
+		{ "IncludePath", "SBZAIActionData_FirstResponder.h" },
+		{ "IsBlueprintBase", "true" },
+		{ "ModuleRelativePath", "Public/SBZAIActionData_FirstResponder.h" },
+	};
+#endif
+	const FCppClassTypeInfoStatic Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics::StaticCppClassTypeInfo = {
+		TCppClassTypeTraits<USBZAIActionData_FirstResponder>::IsAbstract,
+	};
+	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics::ClassParams = {
+		&USBZAIActionData_FirstResponder::StaticClass,
+		nullptr,
+		&StaticCppClassTypeInfo,
+		DependentSingletons,
+		nullptr,
+		nullptr,
+		nullptr,
+		UE_ARRAY_COUNT(DependentSingletons),
+		0,
+		0,
+		0,
+		0x000010A0u,
+		METADATA_PARAMS(Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics::Class_MetaDataParams))
+	};
+	UClass* Z_Construct_UClass_USBZAIActionData_FirstResponder()
+	{
+		static UClass* OuterClass = nullptr;
+		if (!OuterClass)
+		{
+			UE4CodeGen_Private::ConstructUClass(OuterClass, Z_Construct_UClass_USBZAIActionData_FirstResponder_Statics::ClassParams);
+		}
+		return OuterClass;
+	}
+	IMPLEMENT_CLASS(USBZAIActionData_FirstResponder, 438952289);
+	template<> STARBREEZE_API UClass* StaticClass<USBZAIActionData_FirstResponder>()
+	{
+		return USBZAIActionData_FirstResponder::StaticClass();
+	}
+	static FCompiledInDefer Z_CompiledInDefer_UClass_USBZAIActionData_FirstResponder(Z_Construct_UClass_USBZAIActionData_FirstResponder, &USBZAIActionData_FirstResponder::StaticClass, TEXT("/Script/Starbreeze"), TEXT("USBZAIActionData_FirstResponder"), false, nullptr, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(USBZAIActionData_FirstResponder);
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+#ifdef _MSC_VER
+#pragma warning (pop)
+#endif

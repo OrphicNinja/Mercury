@@ -1,0 +1,969 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Definitions.AssetGenerator.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/AssetGeneration/KismetBytecodeTransformer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\AssetGeneration/KismetBytecodeTransformer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\AssetGeneration/KismetIntermediateFormat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Json.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Async/Async.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializerMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BPTerminal.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/PropertyTypeHelper.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/AssetGeneration/KismetGraphDecompiler.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\AssetGeneration/KismetGraphDecompiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/BlueprintEditorUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/ClassViewer/Public/ClassViewerModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\EdGraphSchema_K2_Actions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\EdGraphSchema_K2_Actions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_AddDelegate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_BaseMCDelegate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_BaseMCDelegate.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_AddDelegate.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallParentFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallFunction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallParentFunction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_ClassDynamicCast.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_DynamicCast.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_DynamicCast.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_ClassDynamicCast.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_ClearDelegate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_ClearDelegate.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Copy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Copy.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CreateDelegate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CreateDelegate.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_VariableSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Variable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Variable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_VariableSet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_AddPinInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_AddPinInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompilerMisc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BlueprintCompiledStatement.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeArray.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeMap.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeMap.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeSet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_StructMemberSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_StructOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_StructOperation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_StructMemberSet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeStruct.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_RemoveDelegate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_RemoveDelegate.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_SetFieldsInStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_SetFieldsInStruct.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_StructMemberGet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_StructMemberGet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_VariableSetRef.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_VariableSetRef.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/AssetGeneratorModule.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\AssetGeneratorModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\WorkspaceMenuStructure\Public\WorkspaceMenuStructure.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/AssetGeneratorWidget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit\AssetGeneration\AssetGenerationProcessor.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/AssetTypeGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetTypeGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Slate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateBasics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ErrorException.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAllocator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/TextBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/PropertyLocalizationDataGathering.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LevelGuids.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMemoryAnalyzer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReferenceChainSearch.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Internationalization/TextPackageNamespaceUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectAndNameAsStringProxyArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveShowReferences.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindReferencersArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindObjectReferencers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveFindCulprit.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceObjectRef.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectPropertyMapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReferenceMarker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectCrc32.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/RedirectCollector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptStackTracker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\SlateCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\InputCore\Public\InputCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\InputCore\Public\InputCoreModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/SlateSprings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Sound/ISlateSoundDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Sound/NullSlateSoundDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontBulkData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontBulkData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontMeasure.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingPolicy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateDrawBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SUserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/PlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/Windows/WindowsPlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/GenericPlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/IPlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/NavigationConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SWeakWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextHitPoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/IRunRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ILineHighlighter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ILayoutBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/DefaultLayoutBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/WidgetLayoutBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateRunRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateLineHighlighter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayout.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateHyperlinkRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateImageRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateWidgetRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayoutEngine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SFxWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSeparator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWrapBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Images/SSpinningImage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SProgressBar.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SCanvas.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ITextDecorator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextDecorators.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayoutFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/SRichTextBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SHeader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SGridPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SUniformGridPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/SMultiLineEditableText.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SMultiLineEditableTextBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBarTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBorder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SErrorHint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SPopUpErrorText.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/STileView.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSlider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateExtras.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SMissingWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/SlateScrollHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandDragDropOp.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/GenericCommands.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSearchBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVolumeControl.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorSpectrum.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorWheel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/SToolBarButtonBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/SToolBarComboButtonBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SHyperlink.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Accessibility/SlateAccessibleWidgets.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SRichTextHyperlink.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Images/SThrobber.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/STextEntryPopup.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/STextComboPopup.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SExpandableButton.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SExpandableArea.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SNotificationList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSuggestionTextBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Navigation/SBreadcrumbTrail.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/STextComboBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SNumericEntryBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableComboBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SDPIScaler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/SInlineEditableTextBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVirtualKeyboardEntry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/ScrollyZoomy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSafeZone.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SRotatorInputBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVectorInputBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVirtualJoystick.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Docking/SDockableTab.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Docking/SDockTabStack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\WorkspaceMenuStructure\Public\WorkspaceMenuStructureModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LevelEditorActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\TexAligner/TexAligner.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TexAligner.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LightmapResRatioAdjust.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetGeneration/AssetDumpViewWidget.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/AssetDumpViewWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetGeneration/AssetGenerationProcessor.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetGeneration/AssetGenerationUtil.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/AssetGenerationUtil.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/ObjectHierarchySerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\ObjectHierarchySerializer.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/BlueprintGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BlueprintGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\UserDefinedStructure/UserDefinedStructEditorData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/StructureEditorUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedStruct.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/ListenerManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UserDefinedStructEditorData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetGeneration/AssetGeneratorCommandlet.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/AssetGeneratorCommandlet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry/Private/AssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\PathTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\PackageDependencyData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\AssetDataGatherer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\DiskCachedAssetData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\BackgroundGatherResults.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetGeneratorCommandlet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\FileHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\HAL/PlatformApplicationMisc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetGeneration/AssetGeneratorWidget.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\DesktopPlatform\Public\DesktopPlatformModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\DesktopPlatform\Public\IDesktopPlatform.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\AssetGeneration/AssetGeneratorLocalSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetGeneratorLocalSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetGeneration/AssetTypeGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/PropertySerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\PropertySerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetGeneration/PublicProjectStubHelper.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/PublicProjectStubHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/AnimBlueprintGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/AnimBlueprintGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AnimBlueprintGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionEntry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionTerminator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionTerminator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionEntry.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimationGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimClassInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimStateMachineTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimStateMachineTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimClassInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimationGraph.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimationGraphSchema.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimationGraphSchema.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Kismet\Public\BlueprintCompilationManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/KismetEditorUtilities.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CustomEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_EventNodeInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EventNodeInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Event.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CustomEvent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionResult.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionResult.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/SimpleConstructionScript.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleConstructionScript.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/PoseWatch.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PoseWatch.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNodeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/StatsHierarchical.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ObjectTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TraceFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ObjectTrace.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimationPoseData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNodeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/BlendSpaceBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AnimationRuntime.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpaceBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyAccess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyEventInterfaces.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyEventInterfaces.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\IPropertyAccess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\IPropertyAccess.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyAccess.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprintGeneratedClass.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/AnimMontageGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/AnimMontageGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/SimpleAssetGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SimpleAssetGenerator.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AnimMontageGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/AnimSequenceGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/AnimSequenceGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AnimSequenceGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxAnimSequenceImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxAssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxAnimSequenceImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxImportUI.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/ImportSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxImportUI.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/ReimportFbxAnimSequenceFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxFactory.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ReimportFbxAnimSequenceFactory.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/BehaviorTreeGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/BehaviorTreeGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BehaviorTreeGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTCompositeNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTreeTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BehaviorTreeTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTreeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/GenericOctreePublic.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BrainComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AIResourceInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIResourceInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BrainComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BehaviorTreeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BlackboardAssetProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BlackboardAssetProvider.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Tasks/AITask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITask.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTCompositeNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BehaviorTree.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/BlackboardDataGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/BlackboardDataGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BlackboardDataGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BlackboardData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/Blackboard/BlackboardKeyType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BlackboardKeyType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BlackboardData.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/BlendSpaceGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/BlendSpaceGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BlendSpaceGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AimOffsetBlendSpace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/BlendSpace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpace.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AimOffsetBlendSpace.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AimOffsetBlendSpace1D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/BlendSpace1D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpace1D.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AimOffsetBlendSpace1D.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/BlueprintGenerator.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/CameraAnimGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/CameraAnimGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\CameraAnimGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraAnim.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraAnim.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/CurveBaseGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/CurveBaseGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\CurveBaseGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveLinearColor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveVector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveVector.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/CurveLinearColorAtlasGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/CurveLinearColorAtlasGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\CurveLinearColorAtlasGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColorAtlas.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveLinearColorAtlas.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/Texture2DGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\Texture2DGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/DataTableGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/DataTableGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\DataTableGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/FontFaceGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/FontFaceGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\FontFaceGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontFace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontFaceInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontFaceInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontFace.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/AssetHelper.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/FontGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/FontGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\FontGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/LandscapeGrassTypeGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/LandscapeGrassTypeGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\LandscapeGrassTypeGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Landscape\Classes\LandscapeGrassType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeGrassType.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/MaterialGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/MaterialGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MaterialGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Texture2DArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2DArray.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\MaterialEditor/Public/MaterialEditingLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MaterialEditor\MaterialEditingLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\MaterialGraph/MaterialGraphNode_Comment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\MaterialGraph/MaterialGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialGraph.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EdGraphNode_Comment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EdGraphNode_Comment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialGraphNode_Comment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionAdd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionAdd.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionCollectionParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionCollectionParameter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionComment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionComment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionDynamicParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionDynamicParameter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Landscape\Classes\Materials/MaterialExpressionLandscapeGrassOutput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionCustomOutput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionCustomOutput.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\MaterialExpressionLandscapeGrassOutput.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMultiply.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMultiply.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionQualitySwitch.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionQualitySwitch.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionRuntimeVirtualTextureSampleParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionRuntimeVirtualTextureSample.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\VT/RuntimeVirtualTexture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RuntimeVirtualTexture.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionRuntimeVirtualTextureSample.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionRuntimeVirtualTextureSampleParameter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionScalarParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionScalarParameter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionStaticSwitchParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionStaticBoolParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionStaticBoolParameter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionStaticSwitchParameter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter2D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter2D.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameterCube.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameterCube.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVectorParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionVectorParameter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureCube.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter2DArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter2DArray.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\MediaTexture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaSampleQueue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaSamples.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaTimeSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSink.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaTextureSample.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaTexture.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/MaterialInstanceGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/MaterialInstanceGenerator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MaterialInstanceGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionStaticComponentMaskParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionStaticComponentMaskParameter.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetTypeSerializerMacros.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/MaterialParameterCollectionGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/MaterialParameterCollectionGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MaterialParameterCollectionGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/MediaAssetsGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/MediaAssetsGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MediaAssetsGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\MediaPlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaPlayerOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaUtils\MediaPlayerOptions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaPlayer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\FileMediaSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\BaseMediaSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\MediaSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\BaseMediaSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\FileMediaSource.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/PhysicalMaterialGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/PhysicalMaterialGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\PhysicalMaterialGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/PhysicsAssetGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/PhysicsAssetGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\PhysicsAssetGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/SimpleAssetGen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/SimpleAssetGen.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SimpleAssetGen.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/SimpleAssetGenerator.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/SkeletalMeshGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/SkeletalMeshGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SkeletalMeshGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxSkeletalMeshImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxMeshImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxMeshImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\MeshBuild.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxSkeletalMeshImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/ReimportFbxSkeletalMeshFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ReimportFbxSkeletalMeshFactory.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/SkeletonGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/SkeletonGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SkeletonGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/SoundCueGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/SoundCueGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SoundCueGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Classes\SoundCueGraph/SoundCueGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor\SoundCueGraph.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Classes\SoundCueGraph/SoundCueGraphNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Classes\SoundCueGraph/SoundCueGraphNode_Base.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor\SoundCueGraphNode_Base.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor\SoundCueGraphNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Classes\SoundCueGraph/SoundCueGraphNode_Root.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor\SoundCueGraphNode_Root.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Classes\SoundCueGraph/SoundCueGraphSchema.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor\SoundCueGraphSchema.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundModulationDestination.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundModulationDestination.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundWaveLoadingBehavior.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundConcurrency.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundGenerator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueWave.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueWave.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Public\AudioEditorModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Public\ISoundClassEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Public\ISoundSubmixEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Public\ISoundCueEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNodeWavePlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNodeAssetReferencer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNodeAssetReferencer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNodeWavePlayer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\GraphEditor\Public\GraphEditorActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EdGraphUtilities.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\GraphEditor\Public\SNodePanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\GraphEditor\Public\MarqueeOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AudioEditor\Public\SoundCueGraphEditorCommands.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNodeDialoguePlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNodeDialoguePlayer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/AudioEditor/Private/SoundCueEditor.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/StaticMeshGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/StaticMeshGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\StaticMeshGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshDescription.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshAttributeArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementRemappings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshDescription.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavCollisionBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/NavigationSystemHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavCollisionBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxStaticMeshImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxStaticMeshImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/ReimportFbxStaticMeshFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ReimportFbxStaticMeshFactory.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/StringTableGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/StringTableGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\StringTableGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Internationalization/StringTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StringTable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCore.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/SubsurfaceProfileGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/SubsurfaceProfileGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SubsurfaceProfileGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/SubsurfaceProfile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SubsurfaceProfile.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/Texture2DArrayGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/Texture2DArrayGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/TextureGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\TextureGenerator.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\Texture2DArrayGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/Texture2DGenerator.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\AssetGeneration/AssetGeneratorSettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetGeneratorSettings.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/TextureCubeGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/TextureCubeGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\TextureCubeGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/TextureGenerator.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/UserDefinedEnumGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/UserDefinedEnumGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\UserDefinedEnumGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedEnum.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedEnum.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/UserDefinedStructGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/UserDefinedStructGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\UserDefinedStructGenerator.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetGenerator/Source/AssetGenerator/Private/Toolkit/AssetTypeGenerator/UserWidgetGenerator.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/UserWidgetGenerator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\UserWidgetGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/PanelWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/PanelSlot.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\PanelSlot.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Player.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Player.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayerSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\PanelWidget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTree.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Channels/MovieSceneEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneEvent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UMGEditor/Public/WidgetBlueprint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\BaseWidgetBlueprint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\BaseWidgetBlueprint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMGEditor\WidgetBlueprint.generated.h

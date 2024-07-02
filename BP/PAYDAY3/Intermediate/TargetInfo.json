@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PAYDAY3",
+			"Path": "F:\\PAYDAYMODS\\Tools\\MoolahUpdated\\1.1.6\\PAYDAY3\\Source\\PAYDAY3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PAYDAY3Editor",
+			"Path": "F:\\PAYDAYMODS\\Tools\\MoolahUpdated\\1.1.6\\PAYDAY3\\Source\\PAYDAY3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,245 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef ASSETGENERATOR_MediaAssetsGenerator_generated_h
+#error "MediaAssetsGenerator.generated.h already included, missing '#pragma once' in MediaAssetsGenerator.h"
+#endif
+#define ASSETGENERATOR_MediaAssetsGenerator_generated_h
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_SPARSE_DATA
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_RPC_WRAPPERS
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_RPC_WRAPPERS_NO_PURE_DECLS
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMediaPlayerGenerator(); \
+	friend struct Z_Construct_UClass_UMediaPlayerGenerator_Statics; \
+public: \
+	DECLARE_CLASS(UMediaPlayerGenerator, USimpleAssetGenerator, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AssetGenerator"), ASSETGENERATOR_API) \
+	DECLARE_SERIALIZER(UMediaPlayerGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_INCLASS \
+private: \
+	static void StaticRegisterNativesUMediaPlayerGenerator(); \
+	friend struct Z_Construct_UClass_UMediaPlayerGenerator_Statics; \
+public: \
+	DECLARE_CLASS(UMediaPlayerGenerator, USimpleAssetGenerator, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AssetGenerator"), ASSETGENERATOR_API) \
+	DECLARE_SERIALIZER(UMediaPlayerGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	ASSETGENERATOR_API UMediaPlayerGenerator(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMediaPlayerGenerator) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(ASSETGENERATOR_API, UMediaPlayerGenerator); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMediaPlayerGenerator); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	ASSETGENERATOR_API UMediaPlayerGenerator(UMediaPlayerGenerator&&); \
+	ASSETGENERATOR_API UMediaPlayerGenerator(const UMediaPlayerGenerator&); \
+public:
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	ASSETGENERATOR_API UMediaPlayerGenerator() { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	ASSETGENERATOR_API UMediaPlayerGenerator(UMediaPlayerGenerator&&); \
+	ASSETGENERATOR_API UMediaPlayerGenerator(const UMediaPlayerGenerator&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(ASSETGENERATOR_API, UMediaPlayerGenerator); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMediaPlayerGenerator); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMediaPlayerGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_PRIVATE_PROPERTY_OFFSET
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_6_PROLOG
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_PRIVATE_PROPERTY_OFFSET \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_SPARSE_DATA \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_RPC_WRAPPERS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_INCLASS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_PRIVATE_PROPERTY_OFFSET \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_SPARSE_DATA \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_RPC_WRAPPERS_NO_PURE_DECLS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_INCLASS_NO_PURE_DECLS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_8_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> ASSETGENERATOR_API UClass* StaticClass<class UMediaPlayerGenerator>();
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_SPARSE_DATA
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_RPC_WRAPPERS
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_RPC_WRAPPERS_NO_PURE_DECLS
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMediaTextureGenerator(); \
+	friend struct Z_Construct_UClass_UMediaTextureGenerator_Statics; \
+public: \
+	DECLARE_CLASS(UMediaTextureGenerator, USimpleAssetGenerator, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AssetGenerator"), ASSETGENERATOR_API) \
+	DECLARE_SERIALIZER(UMediaTextureGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_INCLASS \
+private: \
+	static void StaticRegisterNativesUMediaTextureGenerator(); \
+	friend struct Z_Construct_UClass_UMediaTextureGenerator_Statics; \
+public: \
+	DECLARE_CLASS(UMediaTextureGenerator, USimpleAssetGenerator, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AssetGenerator"), ASSETGENERATOR_API) \
+	DECLARE_SERIALIZER(UMediaTextureGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	ASSETGENERATOR_API UMediaTextureGenerator(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMediaTextureGenerator) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(ASSETGENERATOR_API, UMediaTextureGenerator); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMediaTextureGenerator); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	ASSETGENERATOR_API UMediaTextureGenerator(UMediaTextureGenerator&&); \
+	ASSETGENERATOR_API UMediaTextureGenerator(const UMediaTextureGenerator&); \
+public:
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	ASSETGENERATOR_API UMediaTextureGenerator() { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	ASSETGENERATOR_API UMediaTextureGenerator(UMediaTextureGenerator&&); \
+	ASSETGENERATOR_API UMediaTextureGenerator(const UMediaTextureGenerator&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(ASSETGENERATOR_API, UMediaTextureGenerator); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMediaTextureGenerator); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMediaTextureGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_PRIVATE_PROPERTY_OFFSET
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_15_PROLOG
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_PRIVATE_PROPERTY_OFFSET \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_SPARSE_DATA \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_RPC_WRAPPERS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_INCLASS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_PRIVATE_PROPERTY_OFFSET \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_SPARSE_DATA \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_INCLASS_NO_PURE_DECLS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_17_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> ASSETGENERATOR_API UClass* StaticClass<class UMediaTextureGenerator>();
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_SPARSE_DATA
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_RPC_WRAPPERS
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_RPC_WRAPPERS_NO_PURE_DECLS
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFileMediaSourceGenerator(); \
+	friend struct Z_Construct_UClass_UFileMediaSourceGenerator_Statics; \
+public: \
+	DECLARE_CLASS(UFileMediaSourceGenerator, USimpleAssetGenerator, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AssetGenerator"), ASSETGENERATOR_API) \
+	DECLARE_SERIALIZER(UFileMediaSourceGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_INCLASS \
+private: \
+	static void StaticRegisterNativesUFileMediaSourceGenerator(); \
+	friend struct Z_Construct_UClass_UFileMediaSourceGenerator_Statics; \
+public: \
+	DECLARE_CLASS(UFileMediaSourceGenerator, USimpleAssetGenerator, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AssetGenerator"), ASSETGENERATOR_API) \
+	DECLARE_SERIALIZER(UFileMediaSourceGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	ASSETGENERATOR_API UFileMediaSourceGenerator(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFileMediaSourceGenerator) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(ASSETGENERATOR_API, UFileMediaSourceGenerator); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFileMediaSourceGenerator); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	ASSETGENERATOR_API UFileMediaSourceGenerator(UFileMediaSourceGenerator&&); \
+	ASSETGENERATOR_API UFileMediaSourceGenerator(const UFileMediaSourceGenerator&); \
+public:
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	ASSETGENERATOR_API UFileMediaSourceGenerator() { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	ASSETGENERATOR_API UFileMediaSourceGenerator(UFileMediaSourceGenerator&&); \
+	ASSETGENERATOR_API UFileMediaSourceGenerator(const UFileMediaSourceGenerator&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(ASSETGENERATOR_API, UFileMediaSourceGenerator); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFileMediaSourceGenerator); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFileMediaSourceGenerator)
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_PRIVATE_PROPERTY_OFFSET
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_24_PROLOG
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_PRIVATE_PROPERTY_OFFSET \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_SPARSE_DATA \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_RPC_WRAPPERS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_INCLASS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_PRIVATE_PROPERTY_OFFSET \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_SPARSE_DATA \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_INCLASS_NO_PURE_DECLS \
+	PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h_26_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> ASSETGENERATOR_API UClass* StaticClass<class UFileMediaSourceGenerator>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID PAYDAY3_Plugins_AssetGenerator_Source_AssetGenerator_Public_Toolkit_AssetTypeGenerator_MediaAssetsGenerator_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

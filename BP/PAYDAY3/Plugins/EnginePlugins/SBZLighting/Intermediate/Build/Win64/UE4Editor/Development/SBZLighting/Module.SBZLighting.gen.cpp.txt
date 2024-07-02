@@ -1,0 +1,31 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Development\SBZLighting\Definitions.SBZLighting.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/ESBZLightVisibilityAreaAction.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/ESBZLightVisibilityAreaAction.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\ESBZLightVisibilityAreaAction.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/ESBZSparseIrradianceHintVolumeAction.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/ESBZSparseIrradianceHintVolumeAction.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\ESBZSparseIrradianceHintVolumeAction.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZIrradianceOccluder.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/SBZIrradianceOccluder.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\SBZIrradianceOccluder.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZIrradianceOccluderComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/SBZIrradianceOccluderComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\SBZIrradianceOccluderComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZLighting.init.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZLightVisibilityArea.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/SBZLightVisibilityArea.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\SBZLightVisibilityArea.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZLightVisibilityAreaManager.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/SBZLightVisibilityAreaManager.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\SBZLightVisibilityAreaManager.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZLightVisibilityBoxShape.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/SBZLightVisibilityBoxShape.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting\Public\SBZLightVisibilityShape.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\SBZLightVisibilityShape.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\SBZLightVisibilityBoxShape.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZLightVisibilityShape.gen.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/EnginePlugins/SBZLighting/Intermediate/Build/Win64/UE4Editor/Inc/SBZLighting/SBZSparseIrradianceHintVolume.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Source\SBZLighting/Public/SBZSparseIrradianceHintVolume.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZLighting\Intermediate\Build\Win64\UE4Editor\Inc\SBZLighting\SBZSparseIrradianceHintVolume.generated.h

@@ -1,0 +1,22 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Development\UniversalVoiceChatPro\Definitions.UniversalVoiceChatPro.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/UniversalVoiceChatPro/Intermediate/Build/Win64/UE4Editor/Inc/UniversalVoiceChatPro/AudioCaptureAndroid.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Source\UniversalVoiceChatPro/Public/AudioCaptureAndroid.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Inc\UniversalVoiceChatPro\AudioCaptureAndroid.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/UniversalVoiceChatPro/Intermediate/Build/Win64/UE4Editor/Inc/UniversalVoiceChatPro/MicrophoneSpeakComponent.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Source\UniversalVoiceChatPro/Public/MicrophoneSpeakComponent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Inc\UniversalVoiceChatPro\MicrophoneSpeakComponent.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/UniversalVoiceChatPro/Intermediate/Build/Win64/UE4Editor/Inc/UniversalVoiceChatPro/PlayerVoiceChatActor.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Source\UniversalVoiceChatPro/Public/PlayerVoiceChatActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Inc\UniversalVoiceChatPro\PlayerVoiceChatActor.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/UniversalVoiceChatPro/Intermediate/Build/Win64/UE4Editor/Inc/UniversalVoiceChatPro/UniversalVoiceChat.gen.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Source\UniversalVoiceChatPro/Public/UniversalVoiceChat.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Inc\UniversalVoiceChatPro\UniversalVoiceChat.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/UniversalVoiceChatPro/Intermediate/Build/Win64/UE4Editor/Inc/UniversalVoiceChatPro/UniversalVoiceChatPro.init.gen.cpp

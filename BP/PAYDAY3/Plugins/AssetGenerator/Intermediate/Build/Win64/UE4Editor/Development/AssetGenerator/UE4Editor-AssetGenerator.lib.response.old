@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AssetGenerator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Intermediate\Build\Win64\PAYDAY3Editor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.obj"
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.cpp.obj"
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.gen.cpp.obj"
+"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Default.rc2.res"
+/OUT:"C:\Users\Nwali\Desktop\PAYDAYMODS\Tools\MoolahProject-asset-gen-widgets-wip\MoolahProject-asset-gen-widgets-wip\Plugins\UEAssetToolkit-Fixes-main\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\UE4Editor-AssetGenerator.lib"

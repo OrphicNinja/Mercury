@@ -1,0 +1,1658 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Definitions.AssetDumper.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/AssetDumperModule.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\AssetDumperModule.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetDumperCommands.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetDumping/AssetDumpConsoleWidget.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetDumpConsoleWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Slate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateBasics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Async/Async.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ErrorException.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAllocator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/TextBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/PropertyLocalizationDataGathering.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LevelGuids.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMemoryAnalyzer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReferenceChainSearch.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Internationalization/TextPackageNamespaceUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectAndNameAsStringProxyArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveShowReferences.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindReferencersArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindObjectReferencers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveFindCulprit.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceObjectRef.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectPropertyMapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReferenceMarker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectCrc32.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/RedirectCollector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptStackTracker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Json.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializerMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\SlateCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\InputCore\Public\InputCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\InputCore\Public\InputCoreModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/SlateSprings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Sound/ISlateSoundDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Sound/NullSlateSoundDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontBulkData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontBulkData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontMeasure.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingPolicy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateDrawBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SUserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/PlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/Windows/WindowsPlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/GenericPlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/IPlatformTextField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/NavigationConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SWeakWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextHitPoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/IRunRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ILineHighlighter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ILayoutBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/DefaultLayoutBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/WidgetLayoutBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateRunRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateLineHighlighter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayout.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateHyperlinkRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateImageRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateWidgetRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayoutEngine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SFxWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSeparator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWrapBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Images/SSpinningImage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SProgressBar.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SCanvas.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ITextDecorator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextDecorators.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayoutFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/SRichTextBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SHeader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SGridPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SUniformGridPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/SMultiLineEditableText.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SMultiLineEditableTextBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBarTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBorder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SErrorHint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SPopUpErrorText.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/STileView.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSlider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateExtras.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SMissingWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/SlateScrollHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandDragDropOp.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/GenericCommands.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSearchBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVolumeControl.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorSpectrum.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorWheel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/SToolBarButtonBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/SToolBarComboButtonBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SHyperlink.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Accessibility/SlateAccessibleWidgets.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SRichTextHyperlink.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Images/SThrobber.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/STextEntryPopup.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/STextComboPopup.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SExpandableButton.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SExpandableArea.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SNotificationList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSuggestionTextBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Navigation/SBreadcrumbTrail.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/STextComboBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SNumericEntryBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableComboBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SDPIScaler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/SInlineEditableTextBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVirtualKeyboardEntry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/ScrollyZoomy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSafeZone.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SRotatorInputBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVectorInputBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVirtualJoystick.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Docking/SDockableTab.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Docking/SDockTabStack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/BaseTextLayoutMarshaller.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ITextLayoutMarshaller.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetDumpProcessor.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Util/GameEditorHelper.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetDumping/AssetDumperCommands.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetDumperWidget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetRegistryViewWidget.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetTypeSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AssetTypeSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetDumping/AssetDumperWidget.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Util/FileDialogHelper.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetDumping/AssetDumpProcessor.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/SerializationContext.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetDumping/AssetRegistryViewWidget.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetTypeSerializerMacros.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetDumping/SerializationContext.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/ObjectHierarchySerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\ObjectHierarchySerializer.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/PropertySerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\PropertySerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/AnimationBlueprintAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/AnimationBlueprintAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/BlueprintAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\BlueprintAssetSerializer.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationBlueprintAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/PoseWatch.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PoseWatch.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimStateMachineTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimStateMachineTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimClassInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimClassInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNodeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/StatsHierarchical.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ObjectTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TraceFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ObjectTrace.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimationPoseData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNodeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/BlendSpaceBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AnimationRuntime.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpaceBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyAccess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyEventInterfaces.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyEventInterfaces.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\IPropertyAccess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\IPropertyAccess.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyAccess.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprintGeneratedClass.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/AnimationMontageAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/AnimationMontageAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationMontageAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/AnimationSequenceAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/AnimationSequenceAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationSequenceAssetSerializer.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/FbxMeshExporter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_def.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_version.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/arch/fbxarch.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/arch/fbxtypes.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/arch/fbxdebug.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_def.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/arch/fbxalloc.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/arch/fbxnew.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/arch/fbxstdcompliant.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxarray.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxbitset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxcharptrset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxcontainerallocators.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxdynamicarray.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxstatus.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxstring.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxfile.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxfolder.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxhashmap.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxmap.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxredblacktree.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxpair.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxintrusivelist.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxmemorypool.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/sync/fbxatomic.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxstringlist.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxtime.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxtimecode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxutils.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxmath.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxvector2.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxvector4.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxmatrix.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxaffinematrix.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxdualquaternion.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxquaternion.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/sync/fbxclock.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/sync/fbxsync.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/sync/fbxthread.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxclassid.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxconnectionpoint.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxdatatypes.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxpropertytypes.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxsystemunit.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxpropertyhandle.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxpropertydef.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxmodule.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxloadingstrategy.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxplugin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxobject.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxquery.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxemitter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxeventhandler.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxevent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxproperty.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxstream.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxnamehandler.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxlistener.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxplugincontainer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxmanager.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxperipheral.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxpropertypage.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxsymbol.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxqueryevent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxscopedloadingdirectory.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxscopedloadingfilename.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/fbxxref.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxexporter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxiobase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxiosettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxiosettingspath.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxprogress.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxrenamingstrategy.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxexternaldocreflistener.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxfiletokens.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxglobalcamerasettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxgloballightsettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxgobo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbximporter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxstatistics.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxaxissystem.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxiopluginregistry.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxreader.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbx/fbxio.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxcallbacks.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxwriter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxstatisticsfbx.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxaudio.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxmediaclip.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxaudiolayer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxcollection.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxcollectionexclusive.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxcontainer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxcontainertemplate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxdisplaylayer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxdocument.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxdocumentinfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxenvironment.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxgroupname.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxlibrary.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxobjectfilter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxobjectmetadata.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxpose.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxreference.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxscene.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/base/fbxmultimap.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimevaluator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimevalstate.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxnode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/core/math/fbxtransforms.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimstack.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxlayer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxsurfacematerial.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxtexture.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxnodeattribute.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fileio/fbxglobalsettings.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxselectionset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxselectionnode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxtakeinfo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxthumbnail.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/fbxvideo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimcurve.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimcurvebase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimcurvefilters.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimcurvenode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimevalclassic.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimlayer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/animation/fbxanimutilities.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxcharacternodename.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxcharacter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraint.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxcharacterpose.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintaim.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintcustom.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintparent.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintposition.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintrotation.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintscale.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintsinglechainik.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxconstraintutils.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxcontrolset.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/constraint/fbxhik2fbxcharacter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxblendshape.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxdeformer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxblendshapechannel.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxsubdeformer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxcache.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxcachedeffect.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxcamera.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxcamerastereo.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxcameraswitcher.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxcluster.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxgenericnode.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxgeometry.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxgeometrybase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxlayercontainer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxshape.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxgeometryweightedmap.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxweightedmapping.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxlight.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxlimitsutilities.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxline.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxlodgroup.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxmarker.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxmesh.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxnull.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxnurbs.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxnurbscurve.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxnurbssurface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxopticalreference.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxpatch.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxproceduralgeometry.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxskeleton.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxskin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxsubdiv.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxtrimnurbssurface.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/geometry/fbxvertexcachedeformer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxshadingconventions.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxbindingsentryview.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxentryview.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxbindingtable.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxbindingtablebase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxbindingtableentry.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxbindingoperator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxconstantentryview.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxfiletexture.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbximplementation.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbximplementationfilter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbximplementationutils.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxoperatorentryview.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxpropertyentryview.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxlayeredtexture.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxproceduraltexture.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxsemanticentryview.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxsurfacelambert.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/scene/shading/fbxsurfacephong.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxdeformationsevaluator.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxprocessor.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxprocessorxref.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxprocessorxrefuserlib.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxprocessorshaderdependency.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxclonemanager.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxgeometryconverter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxmanipulators.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxmaterialconverter.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxrenamingstrategyfbx5.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxrenamingstrategybase.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxrenamingstrategyfbx6.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxrenamingstrategyutilities.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxrootnodeutility.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxusernotification.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/utils/fbxscenecheckutility.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsbegin.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\fbxsdk/fbxsdk_nsend.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/AssetHelper.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/AssetHelper.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/KismetBytecodeDisassemblerJson.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/AssetTypeSerializer.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/BlendSpaceAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/BlendSpaceAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\BlendSpaceAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AimOffsetBlendSpace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/BlendSpace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpace.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AimOffsetBlendSpace.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AimOffsetBlendSpace1D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/BlendSpace1D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpace1D.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AimOffsetBlendSpace1D.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/BlueprintAssetSerializer.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/SCS_Node.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/SimpleConstructionScript.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleConstructionScript.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SCS_Node.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TimelineTemplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/TimelineComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimelineComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimelineTemplate.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/CameraAnimAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/CameraAnimAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CameraAnimAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraAnim.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraAnim.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/CurveBaseAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/CurveBaseAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CurveBaseAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveLinearColor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveVector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveVector.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/CurveLinearColorAtlasAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/CurveLinearColorAtlasAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CurveLinearColorAtlasAssetSerializer.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/TextureAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\TextureAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColorAtlas.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveLinearColorAtlas.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/DataTableAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/DataTableAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\DataTableAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/FbxDataConverter.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/FbxDataConverter.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/FbxMeshExporter.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AnimEncoding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimSequenceDecompressionContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AnimationCompression.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/FloatPacker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODRenderData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/MultiSizeIndexContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshDuplicatedVerticesBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexClothBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/MorphTargetVertexInfoBuffers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshRenderData.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/FileMediaSourceAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/FileMediaSourceAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FileMediaSourceAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\FileMediaSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\BaseMediaSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\MediaSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\BaseMediaSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\FileMediaSource.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/FontAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/FontAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FontAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/FontFaceAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/FontFaceAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FontFaceAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontFace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontFaceInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontFaceInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontFace.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/LandscapeGrassTypeSerializer.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Landscape\Classes\LandscapeGrassType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeGrassType.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/LandscapeGrassTypeAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\LandscapeGrassTypeAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/MaterialAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/MaterialAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/MaterialFunctionAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/MaterialFunctionAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialFunctionAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/MaterialInstanceAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/MaterialInstanceAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialInstanceAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/MaterialParameterCollectionAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/MaterialParameterCollectionAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialParameterCollectionAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollection.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/MediaPlayerAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/MediaPlayerAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MediaPlayerAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\MediaPlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaPlayerOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaUtils\MediaPlayerOptions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaTimeSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaPlayer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/MediaTextureAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/MediaTextureAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MediaTextureAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\MediaTexture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaSampleQueue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaSamples.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSink.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaTextureSample.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaTexture.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/PhysicalMaterialAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/PhysicalMaterialAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\PhysicalMaterialAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/SkeletalMeshAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/SkeletalMeshAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SkeletalMeshAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/SkeletonAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/SkeletonAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SkeletonAssetSerializer.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/StaticMeshAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/StaticMeshAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\StaticMeshAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavCollisionBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/NavigationSystemHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavCollisionBase.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/StringTableAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/StringTableAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\StringTableAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Internationalization/StringTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StringTable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCore.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/SubsurfaceProfileAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/SubsurfaceProfileAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SubsurfaceProfileAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/SubsurfaceProfile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SubsurfaceProfile.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/Texture2DArrayAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/Texture2DArrayAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\Texture2DArrayAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Texture2DArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2DArray.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/TextureAssetSerializer.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/TextureDecompressor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/TextureCubeAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/TextureCubeAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\TextureCubeAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureCube.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/TextureDecompressor.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\ThirdParty\include\detex.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\stdbool.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/UserDefinedEnumAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/UserDefinedEnumAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserDefinedEnumAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedEnum.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedEnum.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/UserDefinedStructAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/UserDefinedStructAssetSerializer.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserDefinedStructAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedStruct.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/AssetTypes/UserWidgetAssetSerializer.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/UserWidgetAssetSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/PanelWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/PanelSlot.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\PanelSlot.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Player.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Player.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayerSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\PanelWidget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTree.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserWidgetAssetSerializer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/NamedSlot.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/ContentWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\ContentWidget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlot.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Channels/MovieSceneEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneEvent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneEventSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/NameCurve.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NameCurve.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannel.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannelData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelTraits.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneCompiledDataID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemRunner.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSequenceInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityLedger.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSequenceInstanceHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/IMovieSceneEntityProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\IMovieSceneEntityProvider.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneEventSection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneEventTriggerSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Sections\MovieSceneEventSectionBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneEventSectionBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Channels/MovieSceneEventChannel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneEventChannel.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneEventTriggerSection.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/KismetBytecodeDisassemblerJson.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/PropertyTypeHelper.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/ObjectHierarchySerializer.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Tracks/MovieSceneFloatTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Tracks/MovieScenePropertyTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/BuiltInComponentTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObjectScopeGuard.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneBlenderSystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneEvaluationHook.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\IMovieSceneEvaluationHook.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieScenePropertyRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSystemTaskDependencies.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieScenePropertySystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentAccessors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/EntityAllocationIterator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/IMovieScenePropertyComponentHandler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneInitialValueCache.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemLinkerExtension.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\BuiltInComponentTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneNameableTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneNameableTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\MovieSceneTracksComponentTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimationCore\Public\EulerTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimationCore\EulerTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\TransformData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieScenePropertyTraits.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieScenePropertyMetaDataTraits.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\MovieSceneTracksPropertyTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneTracksComponentTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Systems/MovieScenePiecewiseBoolBlenderSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneBlenderSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEntitySystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlenderSystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneCachedEntityFilterResult.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Systems/MovieSceneBlenderSystemHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemLinker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneInstanceRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemGraphs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEntitySystemGraphs.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEntitySystemLinker.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityRange.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieScenePiecewiseBoolBlenderSystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieScenePropertyBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePropertyBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieScenePropertyTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneFloatTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneFloatSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneFloatSection.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/PropertySerializer.cpp
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Toolkit/PropertyTypeHelper.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Util/GameEditorHelper.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameEngine.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\MainFrame\Public\Interfaces/IMainFrameModule.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/AssetDumper/Source/AssetDumper/Private/Util/WindowsFileDialogHelper.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/COMPointer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Microsoft/COMPointer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\commdlg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shlobj.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\commctrl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\dpa_dsa.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shobjidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\docobj.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ocidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\comcat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propsys.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\StructuredQueryCondition.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propkeydef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ObjectArray.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shobjidl_core.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sherrors.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shlobj_core.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shlguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\isguids.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\exdisp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shldisp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\knownfolders.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\LM.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\lmcons.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\lmerr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmaccess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmalert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmshare.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmmsg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmremutl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmrepl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmserver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmsvc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmsname.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmuse.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmuseflg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmwksta.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmapibuf.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmerrlog.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmstats.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmaudit.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\lmjoin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h

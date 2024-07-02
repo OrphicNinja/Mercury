@@ -1,6 +1,8 @@
 includes("dependencies/RE-UE4SS")
 
-add_requires("libcurl", {configs = {shared = false}})
+add_requires("libcurl", {configs = {shared = false}}, "11zip")
+
+set_runtimes(is_mode("debug") and "MDd" or "MD")
 
 local projectName = "ModManager"
 
@@ -8,7 +10,7 @@ target(projectName)
     set_kind("shared")
     set_languages("cxx20")
     set_exceptions("cxx")
-    add_packages("libcurl")
+    add_packages("libcurl", "11zip")
 
     add_includedirs("./src")
     add_includedirs("./dependencies/nlohmann-json/single_include")

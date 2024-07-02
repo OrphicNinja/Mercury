@@ -1,0 +1,10 @@
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\OnlineSubsystemAccelByte\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemAccelByte\Definitions.OnlineSubsystemAccelByte.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/OnlineSubsystemAccelByte/Source/OnlineSubsystemAccelByte/Private/AccelByteUniqueIdComposite.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\OnlineSubsystemAccelByte\Source\OnlineSubsystemAccelByte\Public\AccelByteUniqueIdComposite.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\OnlineSubsystemAccelByte\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemAccelByte\AccelByteUniqueIdComposite.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/OnlineSubsystemAccelByte/Source/OnlineSubsystemAccelByte/Private/AuthHandlerComponentAccelByteFactory.cpp
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\OnlineSubsystemAccelByte\Source\OnlineSubsystemAccelByte\Public\AuthHandlerComponentAccelByteFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PacketHandlers\PacketHandler\Classes\HandlerComponentFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler\HandlerComponentFactory.generated.h
+F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\OnlineSubsystemAccelByte\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemAccelByte\AuthHandlerComponentAccelByteFactory.generated.h
+F:/PAYDAYMODS/ModManager/BP/Project/PAYDAY3/Plugins/OnlineSubsystemAccelByte/Source/OnlineSubsystemAccelByte/Private/OnlineSubsystemAccelByteModule.cpp

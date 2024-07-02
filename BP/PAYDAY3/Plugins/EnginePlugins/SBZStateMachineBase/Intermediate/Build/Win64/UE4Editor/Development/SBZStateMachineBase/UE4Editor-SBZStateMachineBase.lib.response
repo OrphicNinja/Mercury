@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SBZStateMachineBase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Intermediate\Build\Win64\PAYDAY3Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZStateMachineBase\Intermediate\Build\Win64\UE4Editor\Development\SBZStateMachineBase\Module.SBZStateMachineBase.cpp.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZStateMachineBase\Intermediate\Build\Win64\UE4Editor\Development\SBZStateMachineBase\Module.SBZStateMachineBase.gen.cpp.obj"
+"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZStateMachineBase\Intermediate\Build\Win64\UE4Editor\Development\SBZStateMachineBase\Default.rc2.res"
+/OUT:"F:\PAYDAYMODS\ModManager\BP\Project\PAYDAY3\Plugins\EnginePlugins\SBZStateMachineBase\Intermediate\Build\Win64\UE4Editor\Development\SBZStateMachineBase\UE4Editor-SBZStateMachineBase.lib"
