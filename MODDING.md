@@ -4,7 +4,7 @@ Before continuing through this guide, keep in mind Mercury Mod Manager is curren
 
 ## Setting up settings for your mod
 ### Preparing mod assets
-Make sure to grab the `BP/MoolahProject/Content/Mods/Mercury/ModSettings/ExampleModSetting.uasset` from this repository, mod setting DataAssets are based on it. Give it as well as any copies of its class you make in the `.../Mercury/Modsettings` directory.  
+Make sure to grab the `BP/PAYDAY3/Content/Mods/Mercury/ModSettings/ExampleModSetting.uasset` from this repository, mod setting DataAssets are based on it. Give it as well as any copies of its class you make in the `.../Mercury/Modsettings` directory.  
 You also need `/Mercury/Blueprints/BP_ModManager.uasset`, `/Mercury/Blueprints/PDA_Settings.uasset`, and `/Mercury/UI/Widgets/WBP_UI_ModManager_ModStack.uasset`.  
 Keep in mind you **do** still need the ModMeta that `zModLoader_P` uses.
 
