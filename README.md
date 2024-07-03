@@ -24,15 +24,11 @@ This folder is where the mod manager will mount and unmount paks from.
 You can edit the mod loading order list from the menu. Once the list is changed and applied, it is recommended that you restart the game to ensure all
 assets are effected by the change. You can also edit the load order from the "ModLoadOrder.txt" in the /Mercury directory.
 
-To hotswap a mod, rename the updated pak with '.staged' at the end and add it to the /Mods folder.
-The mod manager will detect this change and replace the old pak with the new one. This is very experimental. 
-The affected assets need to be reloaded e.g: if you are currently in a heist, quit to the main menu then reload the heist.
-
 ### GUIDES FOR MOD MAKERS
 
-[How to make your mod compatible with Mercury]()
+[How to make your mod compatible with Mercury](https://github.com/OrphicNinja/Mercury/blob/main/COMPATABILTY.md)
 
-[How to create mod settings](https://github.com/OrphicNinja/Mercury/blob/main/MODDING.md)
+[How to create mod settings](https://github.com/OrphicNinja/Mercury/blob/main/SETTINGS.md)
 
 ### SOURCE PROJECT
 
