@@ -59,7 +59,7 @@ This will be what you provide to your users. Instruct them to extract this archi
 depending on where they installed the game from. On startup, Mercury will detect the pak mods in these and automatically
 add them to the Load order list and mount them according to the order of this list.  
 
-![ZippingFolder.gif](Imgs/ZippingFolder.gif)
+![Super poorly compressed ZippingFolder.gif](Imgs/ZippingFolder.gif)
 
 ### Quick Mod Testing with Hotswapping
 Once you have your mod compatible with Mercury, you can use the mod managers hotswapping features to test changes to pak
